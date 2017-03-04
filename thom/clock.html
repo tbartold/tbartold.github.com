@@ -1,0 +1,64 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+"http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<meta name="generator" content="HTML Tidy for Linux (vers 1 September 2005), see www.w3.org" />
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<meta name="Author" content="Thomas M. Bartold" />
+<meta name="description" content="Thom Bartold's Clock Page" />
+<meta name="keywords" content="Bartold, Thom" />
+<title>Matchstick Clock</title>
+<style type="text/css">
+.copy {font-size:x-small;text-align:center}
+.centerimg {display:block;margin-left:auto;margin-right:auto}
+</style>
+<script language="javascript" type="text/javascript">
+//<![CDATA[
+<!-- hide script from old browsers
+/* Function to display a continually updating clock. */
+function showtime() {
+// format the date and time UT style;
+now = new Date();
+year = now.getYear();
+if (year < 1900) {if (year >= 50) year = 1900 + year; if (year < 50) year = 2000 + year; }
+month = now.getMonth()+1; if (month < 10) month = "0" + month;
+day = now.getDate(); if (day < 10) day = "0" + day;
+hour = now.getHours(); if (hour < 10) hour = "0" + hour;
+minute = now.getMinutes(); if (minute < 10) minute = "0" + minute;
+second = now.getSeconds(); if (second < 10) second = "0" + second;
+document.clock.face.value=" "+year+"-"+month+"-"+day+"   "+hour+":"+minute+":"+second;
+// keep the clock ticking
+TimerID=setTimeout("showtime()",1000);
+}
+//-->
+//]]>
+</script>
+</head>
+<body onload="showtime()">
+<div class="center">
+[<a href="/genealogy/index.html">Main Genealogy Page</a>] [<a href="/genealogy/research.html">Researchers</a>] [<a href="/geobook.html">GuestBook</a>] [<a href="/index.html">Bartold Home Page</a>]
+</div>
+<hr />
+<h2>Here's a little program I wrote</h2><a href="/matchstickclockexe.jar"><img width="849" height="826" src="/images/clock.png" alt="Matchstick Clock" /><br />
+Matchstick Clock Executable</a><br />
+<a href="/matchstickclock-win32.zip">Matchstick Clock Screen Saver</a>
+<p>It's actually an 'executable jar file', i.e. a java program that you need to download to your computer to run it. If you have java on your computer it will run. However, if you just try to 'open' it from here, it might work (it does in firefox). Some browsers will treat it as an archive that they try to open for you. In that case, try saving it to your computer before you execute it. When it's running try pressing the 'o' (obvious), 'f' (fixed), and 'c' (color) keys to see how it changes. There's a number of other key options, but they're not as useful. I found out that sometimes, usually the second time I run it, it just shows a black box. I'm not sure why. But if I minimize and then restore the window (or just maximize it) the clock shows up again.</p>
+<p>The 'f' option either requires the center of the hands to remain fixed on the background, or allows them to move around the face of the greater clock, and keeps the current time in, more or less, the same place. The 'o' option highlights the current time on the face of the clock, wherever that may be. The 'c' option switches between color and white.</p>
+<p>I also came across the <a href="http://java.sun.com/developer/technicalArticles/J2SE/Desktop/saverbeans.html">Java SaverBeans Project</a> when I was building this, so I decided to compile a screen saver version of it. The screen saver runs on windows, but I've only actually tested it on Windows XP.</p>
+<p>Unfortunately it looks like the project is dead, and the only place I've found to download the API now is from <a href="https://github.com/youngnh/saverbeans">here</a>, but it may be an older version than I used.</p>
+<p>Options for the screen server version are set using a 'configure' page for the screen saver.</p>
+<p>This was inspired by a much cooler, real world Matchstick Clock that I came across and thought could be made geekier.</p>
+<h2><a href="http://www.christiaanpostma.nl/index.htm?clock.htm">Christiaan Postma's Clock<br /><img src="/images/christiaan_postma-clock001.jpg" alt="Christiaan's Clock" width="430" height="485" /></a></h2>
+<h4>Christiaan Postma's Matchstick Clock at technabob</h4>
+<p><a href="http://technabob.com/blog/2008/04/19/word-clock-slowly-reveals-the-time-with-text/">There's an time-lapse animated version of the clock on this page also.</a></p>
+<p>His is made of real clocks (each of the 150 clocks looks, kind of, like a "matchstick"). Mine is just a program.</p>
+<p>However, if you look at what I'm doing, I'm actually composing the clock of a lot of second, minute, hour, day, month, year, and century hands. Obviously the century hans which make one full cirlce every hundred years are not going to be moving much.</p>.
+<hr />
+<div class="copy">
+<strong>Thom Bartold's Web Stuff</strong><br />
+Copyright © 1997-2002 by Thomas M. Bartold. All rights reserved.<br />
+This page may be freely linked to but neither it nor the information it provides<br />
+may be duplicated in any fashion without the author's consent.
+</div><a href="http://validator.w3.org/check?uri=referer"><img class="centerimg" border="0" src="/images/valid-xhtml10.png" alt="Valid XHTML 1.0 Transitional" height="31" width="88" /></a> <a href="http://jigsaw.w3.org/css-validator/check/referer"><img class="centerimg" border="0" src="/images/vcss.png" alt="Valid CSS!" height="31" width="88" /></a>
+</body>
+</html>

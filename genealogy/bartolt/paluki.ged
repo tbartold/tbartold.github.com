@@ -1,0 +1,3740 @@
+0 HEAD
+1 SOUR FTW
+2 VERS 4.00
+2 NAME Family Tree Maker for Windows
+2 CORP Broderbund Software, Banner Blue Division
+3 ADDR 39500 Stevenson Pl.  #204
+4 CONT Fremont, CA 95439
+3 PHON (510) 794-6850
+1 DEST FTW
+1 DATE 16 Jun 1998
+1 CHAR ANSI
+1 SUBM @SUBM@
+1 FILE A:\Paluki.GED
+1 GEDC
+2 VERS 5.5
+1 _SCHEMA
+2 INDI
+3 _FA1
+4 LABL Fact 1
+3 _FA2
+4 LABL Fact 2
+3 _FA3
+4 LABL Fact 3
+3 _FA4
+4 LABL Fact 4
+3 _FA5
+4 LABL Fact 5
+3 _FA6
+4 LABL Fact 6
+3 _FA7
+4 LABL Fact 7
+3 _FA8
+4 LABL Fact 8
+3 _FA9
+4 LABL Fact 9
+3 _FA10
+4 LABL Fact 10
+3 _FA11
+4 LABL Fact 11
+3 _FA12
+4 LABL Fact 12
+3 _FA13
+4 LABL Fact 13
+3 _MREL
+4 LABL Relationship to Mother
+3 _FREL
+4 LABL Relationship to Father
+2 FAM
+3 _FA1
+4 LABL Marriage fact
+3 _FA2
+4 LABL Fact 2
+3 _MSTAT
+4 LABL Marriage Beginning Status
+3 _MEND
+4 LABL Marriage Ending Status
+0 @SUBM@ SUBM
+0 @I001@ INDI
+1 NAME Mikolaj /Bartolt/
+1 SEX M
+1 FAMS @F001@
+0 @I002@ INDI
+1 NAME Franciszka /Niedzialkowski/
+1 SEX F
+1 FAMS @F001@
+0 @I003@ INDI
+1 NAME Baltazar /Bartolt/
+1 SEX M
+1 FAMS @F002@
+0 @I004@ INDI
+1 NAME /Katarzyna/
+1 SEX F
+1 FAMS @F002@
+0 @I005@ INDI
+1 NAME Marcin /Bartolt/
+1 SEX M
+1 FAMS @F003@
+0 @I006@ INDI
+1 NAME Zofia /Dlugotecki/
+1 SEX F
+1 FAMS @F003@
+0 @I007@ INDI
+1 NAME Stanislaw /Bartolt/
+1 SEX M
+1 FAMS @F004@
+0 @I008@ INDI
+1 NAME Agnieszka /Niedzialkowski/
+1 SEX F
+1 FAMS @F004@
+0 @I009@ INDI
+1 NAME Bronislaw /Bartolt/
+1 SEX M
+1 FAMS @F005@
+0 @I010@ INDI
+1 NAME Salomea /Bromerski/
+1 SEX F
+1 FAMS @F005@
+0 @I011@ INDI
+1 NAME Wojciech /Bartolt/
+1 SEX M
+1 FAMS @F006@
+0 @I012@ INDI
+1 NAME Barbara /Tretowski/
+1 SEX F
+1 FAMS @F006@
+0 @I013@ INDI
+1 NAME Boniface /Bartolt/
+1 SEX M
+1 FAMS @F007@
+0 @I014@ INDI
+1 NAME Maryanna /Zbikowski/
+1 SEX F
+1 FAMS @F007@
+0 @I015@ INDI
+1 NAME Walenty /Bartolt/
+1 SEX M
+1 FAMS @F011@
+0 @I016@ INDI
+1 NAME Katarzyna /Bruzuszczanka/
+1 SEX F
+1 FAMS @F011@
+0 @I017@ INDI
+1 NAME Ludwik /Bartolt/
+1 SEX M
+1 DEAT
+2 DATE 12 Jan 1791
+2 PLAC Paluki, Poland
+0 @I018@ INDI
+1 NAME Ludwik /Bartolt/
+1 SEX M
+1 DEAT
+2 DATE 23 Jul 1791
+2 PLAC Paluki, Poland
+0 @I019@ INDI
+1 NAME Ignacy /Bartolt/
+1 SEX M
+1 BIRT
+2 DATE 3 Aug 1792
+2 PLAC Paluki, Poland
+1 DEAT
+2 DATE 6 Nov 1853
+2 PLAC Paluki, Poland
+1 FAMC @F012@
+0 @I020@ INDI
+1 NAME Filip /Bartolt/
+1 SEX M
+1 DEAT
+2 DATE BEF 1843
+1 FAMS @F012@
+0 @I021@ INDI
+1 NAME Zofia /Gamowski/
+1 SEX F
+1 DEAT
+2 DATE 14 Jun 1843
+2 PLAC Paluki, Poland
+1 FAMS @F012@
+0 @I022@ INDI
+1 NAME Felicyan Jan /Bartolt/
+1 SEX M
+1 BIRT
+2 DATE 22 Oct 1794
+2 PLAC Paluki, Poland
+1 FAMC @F012@
+0 @I023@ INDI
+1 NAME Anna /Bartolt/
+1 SEX M
+1 DEAT
+2 DATE 8 Feb 1795
+2 PLAC Paluki, Poland
+0 @I024@ INDI
+1 NAME Marianna /Bartolt/
+1 SEX M
+1 BIRT
+2 DATE 10 Jan 1795
+2 PLAC Paluki, Poland
+1 FAMC @F013@
+0 @I025@ INDI
+1 NAME Maciej /Bartolt/
+1 SEX M
+1 FAMS @F013@
+0 @I026@ INDI
+1 NAME /Zofia/
+1 SEX F
+1 FAMS @F013@
+0 @I027@ INDI
+1 NAME Eleanora /Bartolt/
+1 SEX F
+1 BIRT
+2 DATE 6 Nov 1796
+2 PLAC Paluki, Poland
+1 FAMC @F012@
+0 @I029@ INDI
+1 NAME Wincenty /Bartolt/
+1 SEX M
+1 BIRT
+2 DATE 22 Jan 1800
+2 PLAC Paluki, Poland
+1 FAMC @F014@
+0 @I030@ INDI
+1 NAME Jakob /Bartolt/
+1 SEX M
+1 FAMS @F014@
+0 @I031@ INDI
+1 NAME /Zofia/
+1 SEX F
+1 FAMS @F014@
+0 @I032@ INDI
+1 NAME Felicyan /Bartolt/
+1 SEX M
+1 BIRT
+2 DATE 29 May 1800
+2 PLAC Paluki, Poland
+1 FAMC @F012@
+0 @I033@ INDI
+1 NAME Scholastica /Bartolt/
+1 SEX F
+1 BIRT
+2 DATE 17 Feb 1803
+2 PLAC Paluki, Poland
+1 FAMC @F012@
+0 @I034@ INDI
+1 NAME Antoni /Bartolt/
+1 SEX M
+1 BIRT
+2 DATE ABT 17 Jan 1805
+2 PLAC Paluki, Poland
+1 FAMC @F012@
+0 @I035@ INDI
+1 NAME Ludwik /Bartolt/
+1 SEX M
+1 BIRT
+2 DATE 1821
+2 PLAC Paluki, Poland
+1 FAMC @F015@
+0 @I036@ INDI
+1 NAME Ignacy /Bartolt/
+1 SEX M
+1 FAMS @F015@
+0 @I037@ INDI
+1 NAME Ludwika /Milewski/
+1 SEX F
+1 FAMS @F015@
+0 @I038@ INDI
+1 NAME Mateusz /Bartolt/
+1 SEX M
+1 BIRT
+2 DATE 25 Sep 1822
+1 FAMC @F016@
+0 @I039@ INDI
+1 NAME Walenty /Bartolt/
+1 SEX M
+1 FAMS @F016@
+0 @I040@ INDI
+1 NAME /Marianna/
+1 SEX F
+1 FAMS @F016@
+0 @I041@ INDI
+1 NAME Julian B /Bartolt/
+1 SEX M
+1 BIRT
+2 DATE 13 Dec 1824
+2 PLAC Paluki, Poland
+1 FAMC @F015@
+0 @I042@ INDI
+1 NAME Jullian /Bartolt/
+1 SEX M
+1 BIRT
+2 DATE 8 Feb 1825
+2 PLAC Paluki, Poland
+1 FAMC @F015@
+0 @I043@ INDI
+1 NAME Albert /Bartolt/
+1 SEX M
+1 BIRT
+2 DATE 1825
+2 PLAC Klonowo, Paluki, Poland
+0 @I044@ INDI
+1 NAME Stanislaw /Bartolt/
+1 SEX M
+1 BIRT
+2 DATE 4 May 1827
+2 PLAC Paluki, Poland
+1 FAMS @F020@
+1 FAMC @F015@
+0 @I045@ INDI
+1 NAME Jullian /Bartolt/
+1 SEX M
+1 BIRT
+2 DATE 22 Jul 1828
+2 PLAC Klonowo, Paluki, Poland
+1 FAMC @F015@
+0 @I046@ INDI
+1 NAME Felik /Bartolt/
+1 SEX M
+1 BIRT
+2 DATE 26 Jul 1830
+2 PLAC Paluki, Poland
+1 FAMS @F021@
+1 FAMS @F022@
+1 FAMC @F015@
+0 @I047@ INDI
+1 NAME Romiat Walenty /Bartolt/
+1 SEX M
+1 BIRT
+2 DATE 7 Feb 1833
+2 PLAC Paluki, Poland
+1 FAMC @F015@
+0 @I048@ INDI
+1 NAME Leopolda /Konstancy/
+1 SEX M
+1 BIRT
+2 DATE 4 Nov 1835
+2 PLAC Paluki, Poland
+0 @I049@ INDI
+1 NAME Kordula /Bartolt/
+1 SEX F
+1 BIRT
+2 DATE 13 Nov 1835
+2 PLAC Paluki, Poland
+1 FAMC @F015@
+0 @I050@ INDI
+1 NAME Marianna Balbina /Bartolt/
+1 SEX F
+1 BIRT
+2 DATE 2 Nov 1836
+2 PLAC Klonowo, Paluki, Poland
+1 FAMC @F015@
+0 @I051@ INDI
+1 NAME Leopolda Konstancya /Bartolt/
+1 SEX M
+1 BIRT
+2 DATE 4 Nov 1805
+2 PLAC Paluki, Poland
+1 FAMC @F017@
+0 @I052@ INDI
+1 NAME Jan /Bartolt/
+1 SEX M
+1 FAMS @F017@
+0 @I053@ INDI
+1 NAME /Domicila/
+1 SEX F
+1 FAMS @F017@
+0 @I054@ INDI
+1 NAME Jan Pawel /Bartolt/
+1 SEX M
+1 BIRT
+2 DATE 24 Jun 1839
+2 PLAC Paluki, Poland
+1 FAMC @F015@
+0 @I055@ INDI
+1 NAME Jozef Benedykt /Bartolt/
+1 SEX M
+1 BIRT
+2 DATE 21 May 1823
+2 PLAC Zielona, Poland
+1 FAMS @F018@
+1 FAMC @F019@
+0 @I056@ INDI
+1 NAME Marianna /Cichowski/
+1 SEX F
+1 FAMS @F018@
+0 @I057@ INDI
+1 NAME Walery /Bartolt/
+1 SEX M
+1 BIRT
+2 DATE 17 Dec 1797
+2 PLAC Paluki, Poland
+1 FAMS @F019@
+1 FAMC @F012@
+0 @I058@ INDI
+1 NAME Klara /Szepetkowski/
+1 SEX F
+1 BIRT
+2 DATE ABT 1803
+1 FAMS @F019@
+0 @I059@ INDI
+1 NAME Wladyslaw Szymon /Bartolt/
+1 SEX M
+1 BIRT
+2 DATE 11 Dec 1849
+2 PLAC Paluki, Poland
+1 FAMC @F020@
+0 @I060@ INDI
+1 NAME Waleria /Bartolt/
+1 SEX F
+1 BIRT
+2 DATE 23 Jan 1859
+2 PLAC Zielona, Poland
+1 DEAT
+2 DATE 25 May 1864
+2 PLAC Zielona, Poland
+1 FAMC @F020@
+0 @I061@ INDI
+1 NAME Anna /Kuskowski/
+1 SEX F
+1 FAMS @F020@
+0 @I062@ INDI
+1 NAME Jozefa Ksawera B /Bartolt/
+1 SEX F
+1 BIRT
+2 DATE 16 Dec 1851
+2 PLAC Paluki, Poland
+1 FAMC @F020@
+0 @I063@ INDI
+1 NAME Karolina Gertruda /Sosnowski/
+1 SEX F
+1 BIRT
+2 PLAC Wilkowa
+1 DEAT
+2 DATE 26 Nov 1858
+2 PLAC Klonowo
+1 FAMS @F021@
+0 @I064@ INDI
+1 NAME Ferdinand /Bartolt/
+1 SEX M
+1 BIRT
+2 DATE 26 Nov 1852
+2 PLAC Paluki, Poland
+1 DEAT
+2 DATE 11 Dec 1852
+2 PLAC Paluki, Poland
+1 FAMC @F021@
+0 @I065@ INDI
+1 NAME Marianna /Bartolt/
+1 SEX F
+1 BIRT
+2 DATE 9 Feb 1852
+2 PLAC Paluki, Poland
+1 FAMC @F075@
+0 @I066@ INDI
+1 NAME Marianna /Bartolt/
+1 SEX F
+1 BIRT
+2 DATE ABT 1816
+1 FAMS @F110@
+1 FAMC @F096@
+0 @I067@ INDI
+1 NAME Jan /Smolinski/
+1 SEX M
+1 TITL Widower
+1 BIRT
+2 DATE ABT 1799
+1 FAMS @F010@
+0 @I068@ INDI
+1 NAME Antonina /Bartolt/
+1 SEX F
+1 BIRT
+2 DATE 31 Jul 1853
+2 PLAC Paluki, Poland
+1 DEAT
+2 DATE 7 Dec 1953
+2 PLAC Paluki, Poland
+1 FAMC @F075@
+0 @I069@ INDI
+1 NAME Aniela B /Bartolt/
+1 SEX F
+1 BIRT
+2 DATE 24 Dec 1854
+2 PLAC Paluki, Poland
+1 FAMC @F021@
+0 @I070@ INDI
+1 NAME Alexandra /Brzozowski/
+1 SEX F
+1 DEAT
+2 DATE 29 Mar 1859
+2 PLAC Paluki, Poland
+1 FAMS @F022@
+0 @I071@ INDI
+1 NAME Walenty /Bartolt/
+1 SEX M
+1 FAMS @F074@
+0 @I072@ INDI
+1 NAME Rozalia /Smolinski/
+1 SEX F
+1 BIRT
+2 DATE ABT 1840
+1 FAMS @F023@
+0 @I073@ INDI
+1 NAME Katarzyna /Chatkowski/
+1 SEX F
+1 FAMS @F036@
+0 @I074@ INDI
+1 NAME Karol /Bartolt/
+1 SEX M
+1 BIRT
+2 DATE ABT 1756
+1 DEAT
+2 DATE 5 Dec 1816
+2 PLAC Zielona, Poland
+1 FAMS @F036@
+0 @I075@ INDI
+1 NAME Antoni /Bartolt/
+1 SEX M
+1 BIRT
+2 DATE 13 Jun 1833
+2 PLAC Zielona, Poland
+1 FAMS @F024@
+1 FAMC @F035@
+0 @I076@ INDI
+1 NAME Anastasia /Gozdziewski/
+1 SEX F
+1 BIRT
+2 DATE ABT 1832
+1 FAMS @F024@
+0 @I077@ INDI
+1 NAME Aniela /Bartolt/
+1 SEX F
+1 BIRT
+2 DATE 23 Jan 1853
+2 PLAC Zielona, Poland
+1 FAMC @F024@
+0 @I078@ INDI
+1 NAME Alexandra /Bartolt/
+1 SEX F
+1 BIRT
+2 DATE 30 Mar 1856
+2 PLAC Zielona, Poland
+1 FAMC @F024@
+0 @I079@ INDI
+1 NAME Julian /Bartolt/
+1 SEX M
+1 BIRT
+2 DATE 25 Nov 1857
+2 PLAC Zielona, Poland
+1 FAMC @F024@
+0 @I080@ INDI
+1 NAME Bonaventure /Bartolt/
+1 SEX M
+1 BIRT
+2 DATE ABT 1786
+1 DEAT
+2 DATE 17 Oct 1852
+2 PLAC Zielona, Poland
+1 FAMS @F025@
+1 FAMC @F045@
+0 @I081@ INDI
+1 NAME Antonina /Gogolewski/
+1 SEX F
+1 BIRT
+2 DATE ABT 1794
+1 DEAT
+2 DATE 8 Dec 1854
+2 PLAC Zielona, Poland
+1 FAMS @F025@
+0 @I082@ INDI
+1 NAME Roza /Bartolt/
+1 SEX F
+1 BIRT
+2 DATE 28 Aug 1814
+2 PLAC Zielona, Poland
+1 FAMC @F025@
+0 @I083@ INDI
+1 NAME Klara /Bartolt/
+1 SEX F
+1 BIRT
+2 DATE 10 Aug 1815
+2 PLAC Zielona, Poland
+1 FAMS @F033@
+1 FAMC @F025@
+0 @I084@ INDI
+1 NAME Teofil /Bartolt/
+1 SEX M
+1 BIRT
+2 DATE 2 Nov 1818
+2 PLAC Zielona, Poland
+1 FAMC @F025@
+0 @I085@ INDI
+1 NAME Tekla /Bartolt/
+1 SEX F
+1 BIRT
+2 DATE 19 May 1821
+2 PLAC Zielona, Poland
+1 FAMC @F025@
+0 @I086@ INDI
+1 NAME Alexandra /Bartolt/
+1 SEX F
+1 BIRT
+2 DATE 2 Aug 1825
+2 PLAC Zielona, Poland
+1 FAMS @F094@
+1 FAMC @F025@
+0 @I087@ INDI
+1 NAME Unnamed /Bartolt/
+1 SEX F
+1 BIRT
+2 DATE 29 Nov 1829
+2 PLAC Zielona, Poland
+1 FAMC @F025@
+0 @I088@ INDI
+1 NAME Adam /Bartolt/
+1 SEX M
+1 BIRT
+2 DATE 25 Dec 1832
+2 PLAC Zielona, Poland
+1 FAMC @F025@
+0 @I089@ INDI
+1 NAME Malgorzata /Bartolt/
+1 SEX F
+1 BIRT
+2 DATE 9 Jul 1834
+2 PLAC Zielona, Poland
+1 FAMC @F025@
+0 @I090@ INDI
+1 NAME Andziej /Bartolt/
+1 SEX F
+1 BIRT
+2 DATE 1835
+1 DEAT
+2 DATE 21 May 1936
+2 PLAC Zielona, Poland
+1 FAMC @F025@
+0 @I091@ INDI
+1 NAME Andrziej /Bartolt/
+1 SEX M
+1 BIRT
+2 DATE ABT 1769
+1 DEAT
+2 DATE 18 Feb 1829
+2 PLAC Zielona, Poland
+1 FAMS @F027@
+1 FAMC @F039@
+0 @I092@ INDI
+1 NAME Agnieska /Tretkowski/
+1 SEX F
+1 BIRT
+2 DATE ABT 1792
+1 FAMS @F027@
+0 @I093@ INDI
+1 NAME Rozalia /Bartolt/
+1 SEX F
+1 BIRT
+2 DATE 1814
+1 DEAT
+2 DATE 30 May 1815
+2 PLAC Zielona, Poland
+1 FAMC @F027@
+0 @I094@ INDI
+1 NAME Serafina Konstancyz /Bartolt/
+1 SEX F
+1 BIRT
+2 DATE 16 Nov 1815
+2 PLAC Zielona, Poland
+1 FAMC @F027@
+0 @I095@ INDI
+1 NAME Wiktoria Rozalia /Bartolt/
+1 SEX F
+1 BIRT
+2 DATE 25 Aug 1818
+2 PLAC Zielona, Poland
+1 FAMS @F079@
+1 FAMC @F027@
+0 @I096@ INDI
+1 NAME Stanislaw Kostka Zygmunt /Bartolt/
+1 SEX M
+1 BIRT
+2 DATE 15 Nov 1821
+2 PLAC Zielona, Poland
+1 FAMS @F083@
+1 FAMC @F027@
+0 @I097@ INDI
+1 NAME Andrziej /Bartolt/
+1 SEX M
+1 BIRT
+2 DATE ABT 1770
+1 FAMS @F028@
+0 @I098@ INDI
+1 NAME Anna /Wilkowski/
+1 SEX F
+1 BIRT
+2 DATE ABT 1782
+1 FAMS @F028@
+0 @I099@ INDI
+1 NAME Tekla Magdalena /Bartolt/
+1 SEX F
+1 BIRT
+2 DATE 22 Feb 1808
+1 FAMC @F028@
+0 @I100@ INDI
+1 NAME Anna /Bartolt/
+1 SEX F
+1 DEAT
+2 DATE 14 Dec 1811
+2 PLAC Zielona, Poland
+1 FAMC @F028@
+0 @I101@ INDI
+1 NAME Benedykt /Bartolt/
+1 SEX M
+1 BIRT
+2 DATE ABT 1770
+1 DEAT
+2 DATE 20 Jan 1825
+2 PLAC Zielona, Poland
+1 FAMS @F029@
+0 @I102@ INDI
+1 NAME Marianna /Zbikowski/
+1 SEX F
+1 DEAT
+2 DATE 9 Mar 1831
+2 PLAC Zielona, Poland
+1 FAMS @F029@
+0 @I103@ INDI
+1 NAME Malgorzata /Bartolt/
+1 SEX F
+1 BIRT
+2 DATE ABT 1810
+1 DEAT
+2 DATE 5 Apr 1812
+2 PLAC Zielona, Poland
+1 FAMC @F029@
+0 @I104@ INDI
+1 NAME Agnieszka /Bartolt/
+1 SEX F
+1 BIRT
+2 DATE ABT 1806
+1 DEAT
+2 DATE 11 Mar 1816
+2 PLAC Zielona, Poland
+1 FAMC @F029@
+0 @I105@ INDI
+1 NAME Boniface /Bartolt/
+1 SEX M
+1 FAMS @F031@
+0 @I106@ INDI
+1 NAME Marianna /Zbikowski/
+1 SEX F
+1 FAMS @F031@
+0 @I107@ INDI
+1 NAME Malgorzata Antonina /Bartolt/
+1 SEX F
+1 BIRT
+2 DATE 11 Jun 1812
+2 PLAC Zielona, Poland
+1 FAMC @F031@
+0 @I108@ INDI
+1 NAME Jan /Bartolt/
+1 SEX M
+1 BIRT
+2 DATE 21 Jun 1827
+2 PLAC Zielona, Poland
+1 FAMS @F057@
+1 FAMC @F025@
+0 @I109@ INDI
+1 NAME Franciszek /Bartolt/
+1 SEX M
+1 BIRT
+2 DATE ABT 1776
+1 FAMS @F030@
+1 FAMS @F035@
+1 FAMS @F037@
+0 @I110@ INDI
+1 NAME Salomea /Chodowski/
+1 SEX F
+1 BIRT
+2 DATE ABT 1786
+1 DEAT
+2 DATE 28 Aug 1819
+1 FAMS @F030@
+0 @I111@ INDI
+1 NAME Adam /Bartolt/
+1 SEX M
+1 BIRT
+2 DATE 23 Dec 1810
+2 PLAC Zielona, Poland
+1 DEAT
+2 DATE 24 Apr 1813
+2 PLAC Zielona, Poland
+1 FAMC @F030@
+0 @I112@ INDI
+1 NAME Ludwig Bartolomew /Bartolt/
+1 SEX F
+1 BIRT
+2 DATE 25 Aug 1813
+2 PLAC Zielona, Poland
+1 DEAT
+2 DATE 7 Jul 1819
+2 PLAC Zielona, Poland
+1 FAMC @F030@
+0 @I113@ INDI
+1 NAME Stanislaw /Bartolt/
+1 SEX M
+1 BIRT
+2 DATE 9 Jan 1819
+2 PLAC Zielona, Poland
+1 DEAT
+2 DATE 1 Apr 1819
+2 PLAC Zielona, Poland
+1 FAMC @F030@
+0 @I114@ INDI
+1 NAME Stanislaw /Bartolt/
+1 SEX M
+1 BIRT
+2 DATE 1806
+1 DEAT
+2 DATE 17 Jun 1813
+2 PLAC Zielona, Poland
+1 FAMC @F030@
+0 @I115@ INDI
+1 NAME Jan /Bartolt/
+1 SEX M
+1 BIRT
+2 DATE 1815
+1 DEAT
+2 DATE 18 Dec 1843
+2 PLAC Zielona, Poland
+1 FAMS @F055@
+1 FAMC @F030@
+0 @I116@ INDI
+1 NAME Felik /Bartolt/
+1 SEX M
+1 BIRT
+2 DATE 1802
+1 DEAT
+2 DATE 3 Nov 1848
+2 PLAC Zielona, Poland
+1 FAMS @F032@
+1 FAMC @F054@
+0 @I117@ INDI
+1 NAME Anna /Wilkowski/
+1 SEX F
+1 FAMS @F032@
+0 @I118@ INDI
+1 NAME Jozef /Bartolt/
+1 SEX M
+1 BIRT
+2 DATE ABT 1766
+1 FAMS @F054@
+0 @I119@ INDI
+1 NAME Jan Jozef /Dlgotecki/
+1 SEX M
+1 BIRT
+2 DATE ABT 1819
+1 FAMS @F110@
+0 @I120@ INDI
+1 NAME Franciszek Xavier /Niski/
+1 SEX M
+1 FAMS @F033@
+0 @I121@ INDI
+1 NAME Paulina /Bartolt/
+1 SEX M
+1 BIRT
+2 DATE 1841
+1 DEAT
+2 DATE 14 Jan 1846
+2 PLAC Zielona, Poland
+0 @I122@ INDI
+1 NAME Marianna /Ozowski/
+1 SEX F
+1 BIRT
+2 DATE ABT 1786
+1 DEAT
+2 DATE 6 Sep 1826
+2 PLAC Zielona, Poland
+1 FAMS @F037@
+0 @I123@ INDI
+1 NAME Jan /Bartolt/
+1 SEX M
+1 FAMS @F034@
+0 @I124@ INDI
+1 NAME /Julianna/
+1 SEX F
+1 FAMS @F034@
+0 @I125@ INDI
+1 NAME Marianna /Puchalski/
+1 SEX F
+1 BIRT
+2 DATE ABT 1809
+1 FAMS @F035@
+0 @I126@ INDI
+1 NAME Walenty /Bartolt/
+1 SEX M
+1 BIRT
+2 DATE 3 Sep 1826
+2 PLAC Zielona, Poland
+1 DEAT
+2 DATE 29 Sep 1826
+2 PLAC Zielona, Poland
+1 FAMC @F037@
+0 @I127@ INDI
+1 NAME Magdelena /Bartolt/
+1 SEX F
+1 BIRT
+2 DATE 22 Jul 1820
+2 PLAC Zielona, Poland
+1 FAMS @F040@
+1 FAMC @F037@
+0 @I128@ INDI
+1 NAME Stanislaw /Bartolt/
+1 SEX M
+1 BIRT
+2 DATE 6 May 1836
+2 PLAC Zielona, Poland
+1 FAMS @F082@
+1 FAMC @F035@
+0 @I129@ INDI
+1 NAME Anna /Bartolt/
+1 SEX F
+1 FAMS @F038@
+1 FAMC @F036@
+0 @I130@ INDI
+1 NAME Alexander /Wilkowski/
+1 SEX M
+1 BIRT
+2 DATE ABT 1785
+1 FAMS @F038@
+0 @I131@ INDI
+1 NAME Jan /Bartolt/
+1 SEX M
+1 FAMS @F039@
+0 @I132@ INDI
+1 NAME Wiktoria /Gamoroski/
+1 SEX F
+1 FAMS @F039@
+0 @I133@ INDI
+1 NAME Konstancya /Bartolt/
+1 SEX M
+1 TITL Widow
+1 BIRT
+2 DATE ABT 1775
+1 DEAT
+2 DATE 25 Jul 1855
+2 PLAC Zielona, Poland
+0 @I134@ INDI
+1 NAME Mateusz /Bartolt/
+1 SEX M
+1 BIRT
+2 DATE ABT 1823
+1 DEAT
+2 DATE 1 Feb 1825
+2 PLAC Zielona, Poland
+1 FAMC @F037@
+0 @I135@ INDI
+1 NAME Franciszek /Niski/
+1 SEX M
+1 BIRT
+2 DATE ABT 1818
+1 FAMS @F040@
+0 @I136@ INDI
+1 NAME Franciszek /Bartolt/
+1 SEX M
+1 BIRT
+2 DATE ABT 1784
+1 DEAT
+2 DATE BEF 1847
+1 FAMS @F041@
+0 @I137@ INDI
+1 NAME Wiktoria /Gozdziewski/
+1 SEX F
+1 BIRT
+2 DATE ABT 1794
+1 FAMS @F041@
+1 FAMS @F092@
+0 @I138@ INDI
+1 NAME Pawel /Bartolt/
+1 SEX M
+1 BIRT
+2 DATE 26 Aug 1825
+2 PLAC Zielona, Poland
+1 FAMS @F079@
+1 FAMC @F041@
+0 @I139@ INDI
+1 NAME Ignacy /Bartolt/
+1 SEX M
+1 BIRT
+2 DATE 8 Dec 1830
+2 PLAC Zielona, Poland
+1 FAMC @F041@
+0 @I140@ INDI
+1 NAME Jan Kanty /Bartolt/
+1 SEX M
+1 BIRT
+2 DATE 20 Nov 1834
+2 PLAC Zielona, Poland
+1 FAMS @F008@
+1 FAMC @F041@
+0 @I141@ INDI
+1 NAME Mateusz /Bartolt/
+1 SEX M
+1 BIRT
+2 DATE 21 Sep 1823
+2 PLAC Zielona, Poland
+1 FAMC @F041@
+0 @I142@ INDI
+1 NAME Apolonia /Zibikowski/
+1 SEX M
+1 BIRT
+2 DATE ABT 1765
+1 DEAT
+2 DATE 9 Mar 1819
+2 PLAC Zielona, Poland
+1 FAMS @F042@
+0 @I143@ INDI
+1 NAME Ignaczy /Bartolt/
+1 SEX F
+1 FAMS @F042@
+0 @I144@ INDI
+1 NAME Ignacy /Bartolt/
+1 SEX M
+1 TITL Widower
+1 BIRT
+2 DATE ABT 1766
+1 DEAT
+2 DATE 23 Jan 1840
+2 PLAC Zielona, Poland
+1 FAMS @F026@
+1 FAMC @F044@
+0 @I145@ INDI
+1 NAME Brigida /Niski/
+1 SEX F
+1 FAMS @F026@
+0 @I146@ INDI
+1 NAME Jan /Bartolt/
+1 SEX M
+1 FAMS @F044@
+0 @I147@ INDI
+1 NAME Rozalia /Rybicki/
+1 SEX F
+1 FAMS @F044@
+0 @I148@ INDI
+1 NAME Maryanna /Bartolt/
+1 SEX F
+1 BIRT
+2 DATE 7 Aug 1810
+2 PLAC Zielona, Poland
+1 DEAT
+2 DATE 22 Mar 1854
+2 PLAC Zielona, Poland
+1 FAMC @F026@
+0 @I149@ INDI
+1 NAME Rosalia Teresia /Bartolt/
+1 SEX F
+1 BIRT
+2 DATE 1 Feb 1812
+2 PLAC Zielona, Poland
+1 DEAT
+2 DATE 23 Mar 1813
+2 PLAC Zielona, Poland
+1 FAMC @F026@
+0 @I150@ INDI
+1 NAME Pawel /Bartolt/
+1 SEX M
+1 BIRT
+2 DATE 21 Mar 1814
+2 PLAC Zielona, Poland
+1 FAMS @F078@
+1 FAMC @F026@
+0 @I151@ INDI
+1 NAME Wiktor /Bartolt/
+1 SEX M
+1 BIRT
+2 DATE 2 Sep 1817
+2 PLAC Zielona, Poland
+1 DEAT
+2 DATE 10 Jun 1821
+2 PLAC Zielona, Poland
+1 FAMC @F026@
+0 @I152@ INDI
+1 NAME Prazyda /Bartolt/
+1 SEX F
+1 BIRT
+2 DATE 1820
+2 PLAC Zielona, Poland
+1 FAMS @F070@
+1 FAMC @F026@
+0 @I153@ INDI
+1 NAME Ignacy /Bartolt/
+1 SEX M
+1 FAMS @F045@
+0 @I154@ INDI
+1 NAME /Eleanora/
+1 SEX F
+1 FAMS @F045@
+0 @I155@ INDI
+1 NAME Ignacy /Bartolt/
+1 SEX M
+1 FAMS @F046@
+0 @I156@ INDI
+1 NAME Ewa /Richalski/
+1 SEX F
+1 FAMS @F046@
+0 @I157@ INDI
+1 NAME Maryanna /Bartolt/
+1 SEX F
+1 BIRT
+2 DATE ABT 1811
+1 FAMS @F047@
+1 FAMC @F046@
+0 @I158@ INDI
+1 NAME Isydor /Szwajkowski/
+1 SEX M
+1 FAMS @F047@
+0 @I159@ INDI
+1 NAME Jozef /Kolakowski/
+1 SEX M
+1 FAMS @F048@
+0 @I160@ INDI
+1 NAME Alexandra Francezska /Bartolt/
+1 SEX F
+1 BIRT
+2 PLAC Bartoldy
+1 FAMS @F048@
+0 @I161@ INDI
+1 NAME Jan /Bartolt/
+1 SEX M
+1 BIRT
+2 DATE ABT 1798
+1 FAMS @F049@
+0 @I162@ INDI
+1 NAME Domicilla /Krzicki/
+1 SEX F
+1 FAMS @F049@
+0 @I163@ INDI
+1 NAME Felician /Bartolt/
+1 SEX M
+1 BIRT
+2 DATE 30 Sep 1838
+2 PLAC Zielona, Poland
+1 FAMC @F049@
+0 @I164@ INDI
+1 NAME Jan /Bartolt/
+1 SEX M
+1 FAMS @F050@
+0 @I165@ INDI
+1 NAME Domowielk /Shenoski/
+1 SEX F
+1 FAMS @F050@
+0 @I166@ INDI
+1 NAME Wincenty /Bartolt/
+1 SEX M
+1 BIRT
+2 DATE 6 Jan 1834
+2 PLAC Zielona, Poland
+1 FAMC @F050@
+0 @I167@ INDI
+1 NAME Jozef /Bartolt/
+1 SEX M
+1 FAMS @F051@
+0 @I168@ INDI
+1 NAME Adam /Bartolt/
+1 SEX M
+1 BIRT
+2 DATE 1809
+1 DEAT
+2 DATE 9 Sep 1811
+2 PLAC Zielona, Poland
+1 FAMC @F051@
+0 @I169@ INDI
+1 NAME /Jozefa/
+1 SEX F
+1 FAMS @F051@
+0 @I170@ INDI
+1 NAME Jozef /Chrzanowski/
+1 SEX M
+1 FAMS @F053@
+0 @I171@ INDI
+1 NAME Jozefa /Bartolt/
+1 SEX F
+1 FAMS @F053@
+0 @I172@ INDI
+1 NAME Franciszek /Chrzanowski/
+1 SEX M
+1 BIRT
+2 DATE 13 Oct 1854
+2 PLAC Zielona, Poland
+1 FAMC @F053@
+0 @I173@ INDI
+1 NAME Jozef /Bartolt/
+1 SEX M
+1 BIRT
+2 DATE ABT 1768
+1 FAMS @F052@
+0 @I174@ INDI
+1 NAME Jozefa /Bartolt/
+1 SEX F
+1 BIRT
+2 DATE ABT 1788
+1 FAMS @F052@
+0 @I175@ INDI
+1 NAME Wociech /Bartolt/
+1 SEX M
+1 BIRT
+2 DATE 23 Apr 1828
+2 PLAC Zielona, Poland
+1 FAMC @F052@
+0 @I176@ INDI
+1 NAME Karolina /Bartolt/
+1 SEX F
+1 DEAT
+2 DATE 22 Aug 1832
+2 PLAC Zielona, Poland
+1 FAMC @F052@
+0 @I177@ INDI
+1 NAME Leon /Bartolt/
+1 SEX M
+1 BIRT
+2 DATE ABT 1805
+1 DEAT
+2 DATE 29 Sep 1856
+2 PLAC Zielona, Poland
+1 FAMS @F063@
+1 FAMC @F052@
+0 @I178@ INDI
+1 NAME Wiktoria /Bartolt/
+1 SEX F
+1 DEAT
+2 DATE 5 May 1827
+2 PLAC Zielona, Poland
+1 FAMC @F052@
+0 @I180@ INDI
+1 NAME Jozefa /Milewski/
+1 SEX F
+1 FAMS @F054@
+0 @I181@ INDI
+1 NAME Rozalia Wiktoria /Bartolt/
+1 SEX F
+1 BIRT
+2 DATE 4 Sep 1830
+1 DEAT
+2 DATE 27 Jun 1838
+2 PLAC Zielona, Poland
+1 FAMC @F054@
+0 @I182@ INDI
+1 NAME Adam Tomasz /Bartolt/
+1 SEX M
+1 BIRT
+2 DATE 4 Dec 1809
+2 PLAC Zielona, Poland
+1 FAMC @F054@
+0 @I183@ INDI
+1 NAME Paulina Antonina /Bartolt/
+1 SEX F
+1 BIRT
+2 DATE 21 Jun 1818
+2 PLAC Zielona, Poland
+1 FAMS @F084@
+1 FAMC @F054@
+0 @I184@ INDI
+1 NAME Marianna Elizbieta /Bartolt/
+1 SEX F
+1 BIRT
+2 DATE 26 Jun 1821
+2 PLAC Zielona, Poland
+1 FAMC @F054@
+0 @I185@ INDI
+1 NAME Malgorzata Rozalia /Bartolt/
+1 SEX F
+1 BIRT
+2 DATE 12 Jul 1812
+2 PLAC Zielona, Poland
+1 FAMC @F054@
+0 @I186@ INDI
+1 NAME Konstancyz /Wilkowski/
+1 SEX F
+1 FAMS @F056@
+0 @I187@ INDI
+1 NAME Jan /Bartolt/
+1 SEX M
+1 BIRT
+2 DATE ABT 1732
+1 DEAT
+2 DATE 26 Dec 1812
+2 PLAC Zielona, Poland
+1 FAMS @F056@
+0 @I188@ INDI
+1 NAME Jan /Bartolt/
+1 SEX M
+1 BIRT
+2 DATE 16 Nov 1843
+2 PLAC Zielona, Poland
+1 FAMC @F055@
+0 @I189@ INDI
+1 NAME Karolina /Czaplicki/
+1 SEX F
+1 FAMS @F055@
+0 @I190@ INDI
+1 NAME Maryann /Gozdziewski/
+1 SEX F
+1 BIRT
+2 DATE ABT 1837
+1 FAMS @F057@
+0 @I191@ INDI
+1 NAME Tomasz /Bartolt/
+1 SEX M
+1 BIRT
+2 DATE 6 Mar 1856
+2 PLAC Zielona, Poland
+1 DEAT
+2 DATE 20 Apr 1858
+2 PLAC Zielona, Poland
+1 FAMC @F057@
+0 @I192@ INDI
+1 NAME Antoni /Bartolt/
+1 SEX M
+1 BIRT
+2 DATE 28 Nov 1858
+2 PLAC Zielona, Poland
+1 FAMC @F057@
+0 @I193@ INDI
+1 NAME Dominick /Bartolt/
+1 SEX M
+1 BIRT
+2 DATE 24 Jul 1859
+2 PLAC Zielona, Poland
+1 FAMC @F057@
+0 @I194@ INDI
+1 NAME Jan /Bartolt/
+1 SEX M
+1 BIRT
+2 DATE 13 Dec 1859
+2 PLAC Zielona, Poland
+1 FAMC @F018@
+0 @I195@ INDI
+1 NAME Julianna /Bartolt/
+1 SEX F
+1 BIRT
+2 DATE 29 Dec 1857
+2 PLAC Zielona, Poland
+1 FAMC @F018@
+0 @I196@ INDI
+1 NAME Aleksander /Bartolt/
+1 SEX M
+1 BIRT
+2 DATE 26 Feb 1854
+2 PLAC Zielona, Poland
+1 FAMC @F018@
+0 @I197@ INDI
+1 NAME Anastasia /Bartolt/
+1 SEX F
+1 BIRT
+2 DATE 27 Feb 1862
+2 PLAC Zielona, Poland
+1 FAMC @F018@
+0 @I198@ INDI
+1 NAME Katrzyna /Bartolt/
+1 SEX F
+1 BIRT
+2 DATE 19 Nov 1845
+2 PLAC Zielona, Poland
+1 FAMC @F018@
+0 @I199@ INDI
+1 NAME Stefan /Bartolt/
+1 SEX M
+1 BIRT
+2 DATE 3 Sep 1864
+2 PLAC Zielona, Poland
+1 FAMC @F018@
+0 @I200@ INDI
+1 NAME Wity Modesty /Bartolt/
+1 SEX M
+1 BIRT
+2 DATE 15 Jun 1850
+2 PLAC Zielona, Poland
+1 FAMC @F018@
+0 @I201@ INDI
+1 NAME Konstancyz /Bartolt/
+1 SEX F
+1 BIRT
+2 DATE 22 Jun 1848
+2 PLAC Zielona, Poland
+1 FAMC @F018@
+0 @I202@ INDI
+1 NAME Paulina Teresia /Bartolt/
+1 SEX F
+1 BIRT
+2 DATE 22 Jun 1852
+2 PLAC Zielona, Poland
+1 DEAT
+2 DATE 28 Jun 1852
+2 PLAC Zielona, Poland
+1 FAMC @F018@
+0 @I203@ INDI
+1 NAME Maryanna /Pszczolkowski/
+1 SEX F
+1 FAMS @F008@
+0 @I204@ INDI
+1 NAME Wincenty /Bartolt/
+1 SEX M
+1 BIRT
+2 DATE 9 Apr 1864
+2 PLAC Zielona, Poland
+1 FAMC @F008@
+0 @I205@ INDI
+1 NAME Sylwester /Bartolt/
+1 SEX M
+1 BIRT
+2 DATE 31 Dec 1859
+2 PLAC Zielona, Poland
+1 DEAT
+2 DATE 12 Jul 1861
+2 PLAC Zielona, Poland
+1 FAMC @F008@
+0 @I206@ INDI
+1 NAME Julian /Bartolt/
+1 SEX M
+1 BIRT
+2 DATE 28 Nov 1858
+2 PLAC Zielona, Poland
+1 DEAT
+2 DATE 24 Feb 1859
+2 PLAC Zielona, Poland
+1 FAMC @F008@
+0 @I207@ INDI
+1 NAME Anna /Bartolt/
+1 SEX F
+1 BIRT
+2 DATE 12 May 1862
+2 PLAC Zielona, Poland
+1 DEAT
+2 DATE 19 Jan 1864
+2 PLAC Zielona, Poland
+1 FAMC @F008@
+0 @I208@ INDI
+1 NAME Jan /Bartolt/
+1 SEX M
+1 DEAT
+2 DATE 20 Jan 1853
+2 PLAC Zielona, Poland
+1 FAMS @F058@
+0 @I209@ INDI
+1 NAME Tekla /Cichowski/
+1 SEX F
+1 FAMS @F058@
+0 @I210@ INDI
+1 NAME Teodor /Bartolt/
+1 SEX M
+1 BIRT
+2 DATE ABT 1852
+1 DEAT
+2 DATE 8 Sep 1853
+2 PLAC Zielona, Poland
+1 FAMC @F058@
+0 @I211@ INDI
+1 NAME Antoni /Bartolt/
+1 SEX M
+1 BIRT
+2 DATE Nov 1857
+1 DEAT
+2 DATE 24 Dec 1857
+2 PLAC Zielona, Poland
+1 FAMC @F057@
+0 @I212@ INDI
+1 NAME Jan /Bartolt/
+1 SEX M
+1 FAMS @F059@
+0 @I213@ INDI
+1 NAME Wiktoria /Bartolt/
+1 SEX F
+1 FAMS @F059@
+0 @I214@ INDI
+1 NAME Jozef /Bartolt/
+1 SEX M
+1 BIRT
+2 DATE ABT 1763
+1 DEAT
+2 DATE 10 Mar 1839
+2 PLAC Zielona, Poland
+1 FAMC @F059@
+0 @I215@ INDI
+1 NAME Jan /Bartolt/
+1 SEX M
+1 FAMS @F060@
+0 @I216@ INDI
+1 NAME Wiktoria /Kolakowski/
+1 SEX F
+1 FAMS @F060@
+0 @I217@ INDI
+1 NAME Maryanna /Bartolt/
+1 SEX F
+1 BIRT
+2 DATE 19 Apr 1846
+1 FAMS @F009@
+1 FAMC @F060@
+0 @I218@ INDI
+1 NAME Tekla /Bartolt/
+1 SEX F
+1 BIRT
+2 DATE 22 Apr 1844
+2 PLAC Zielona, Poland
+1 DEAT
+2 DATE 12 Feb 1848
+2 PLAC Zielona, Poland
+1 FAMC @F060@
+0 @I219@ INDI
+1 NAME Franciszek /Bartolt/
+1 SEX M
+1 BIRT
+2 DATE 23 Feb 1851
+1 DEAT
+2 DATE 26 Aug 1862
+2 PLAC Zielona, Poland
+1 FAMC @F060@
+0 @I220@ INDI
+1 NAME Karol /Bartolt/
+1 SEX M
+1 BIRT
+2 DATE 23 Feb 1851
+2 PLAC Zielona, Poland
+1 FAMC @F060@
+0 @I221@ INDI
+1 NAME Jozefa /Bartolt/
+1 SEX F
+1 BIRT
+2 DATE 24 Mar 1842
+2 PLAC Zielona, Poland
+1 FAMC @F060@
+0 @I222@ INDI
+1 NAME Ignacy /Bartolt/
+1 SEX M
+1 FAMS @F061@
+0 @I223@ INDI
+1 NAME Teresa /Murawski/
+1 SEX F
+1 FAMS @F061@
+0 @I224@ INDI
+1 NAME Konstancya /Bartolt/
+1 SEX F
+1 BIRT
+2 DATE ABT 1802
+1 FAMS @F062@
+1 FAMC @F061@
+0 @I225@ INDI
+1 NAME Kazmierz /Wilkowski/
+1 SEX M
+1 FAMS @F062@
+0 @I226@ INDI
+1 NAME Karol /Smolinski/
+1 SEX M
+1 BIRT
+2 DATE ABT 1842
+1 FAMS @F009@
+0 @I227@ INDI
+1 NAME /Marianna/
+1 SEX F
+1 BIRT
+2 DATE ABT 1804
+1 FAMS @F063@
+0 @I228@ INDI
+1 NAME Paulina /Bartolt/
+1 SEX F
+1 BIRT
+2 DATE 15 Jun 1840
+2 PLAC Zielona, Poland
+1 FAMC @F063@
+0 @I229@ INDI
+1 NAME Lukasz /Bartolt/
+1 SEX M
+1 BIRT
+2 DATE ABT 1759
+1 FAMS @F064@
+0 @I230@ INDI
+1 NAME Marianna /Cichowski/
+1 SEX F
+1 BIRT
+2 DATE ABT 1780
+1 FAMS @F064@
+0 @I231@ INDI
+1 NAME Marianna /Bartolt/
+1 SEX F
+1 BIRT
+2 DATE 20 Apr 1809
+1 FAMC @F064@
+0 @I232@ INDI
+1 NAME Leon /Bartolt/
+1 SEX M
+1 BIRT
+2 DATE ABT 1808
+1 FAMS @F065@
+0 @I233@ INDI
+1 NAME Rozalia /Kiszakowski/
+1 SEX F
+1 BIRT
+2 DATE ABT 1819
+1 FAMS @F065@
+0 @I234@ INDI
+1 NAME Scholastica Agata /Bartolt/
+1 SEX F
+1 BIRT
+2 DATE 8 Feb 1846
+2 PLAC Zielona, Poland
+1 FAMC @F065@
+0 @I235@ INDI
+1 NAME Julianna Konstancyz /Bartolt/
+1 SEX F
+1 BIRT
+2 DATE 14 Feb 1844
+2 PLAC Zielona, Poland
+1 FAMC @F065@
+0 @I236@ INDI
+1 NAME Walenty Jozef /Bartolt/
+1 SEX M
+1 BIRT
+2 DATE 15 Feb 1838
+2 PLAC Bartoldy
+1 FAMS @F023@
+1 FAMC @F065@
+0 @I237@ INDI
+1 NAME Jozef /Bartolt/
+1 SEX M
+1 BIRT
+2 DATE 28 Feb 1848
+2 PLAC Zielona, Poland
+1 FAMC @F065@
+0 @I238@ INDI
+1 NAME Paulina Maryanna /Bartolt/
+1 SEX F
+1 BIRT
+2 DATE 24 Mar 1856
+2 PLAC Zielona, Poland
+1 FAMC @F065@
+0 @I239@ INDI
+1 NAME Jozefa /Bartolt/
+1 SEX F
+1 BIRT
+2 DATE 1839
+1 DEAT
+2 DATE 22 Nov 1841
+2 PLAC Zielona, Poland
+1 FAMC @F065@
+0 @I240@ INDI
+1 NAME Cyprian Franciszek /Bartolt/
+1 SEX M
+1 BIRT
+2 DATE 3 Oct 1852
+2 PLAC Zielona, Poland
+1 FAMC @F065@
+0 @I241@ INDI
+1 NAME Karolina /Bartolt/
+1 SEX F
+1 BIRT
+2 DATE 1842
+2 PLAC Zielona, Poland
+1 FAMC @F065@
+0 @I242@ INDI
+1 NAME Leon /Bartolt/
+1 SEX M
+1 BIRT
+2 DATE ABT 1803
+2 PLAC Zielona, Poland
+1 FAMS @F066@
+1 FAMC @F054@
+0 @I243@ INDI
+1 NAME Rozalia /Mokowski/
+1 SEX F
+1 FAMS @F066@
+0 @I244@ INDI
+1 NAME Jozefa Aniela /Bartolt/
+1 SEX F
+1 BIRT
+2 DATE 29 Dec 1838
+2 PLAC Zielona, Poland
+1 FAMC @F066@
+0 @I245@ INDI
+1 NAME Leon /Bartolt/
+1 SEX M
+1 BIRT
+2 DATE ABT 1806
+1 FAMS @F043@
+0 @I246@ INDI
+1 NAME Wiktoria /Kaminska/
+1 SEX F
+1 BIRT
+2 DATE ABT 1816
+1 FAMS @F043@
+0 @I247@ INDI
+1 NAME Jan /Bartolt/
+1 SEX M
+1 BIRT
+2 DATE 9 Feb 1834
+2 PLAC Zielona, Poland
+1 DEAT
+2 DATE 4 Jun 1834
+2 PLAC Zielona, Poland
+1 FAMC @F043@
+0 @I248@ INDI
+1 NAME Franciszka /Bartolt/
+1 SEX F
+1 BIRT
+2 DATE 10 Feb 1837
+2 PLAC Zielona, Poland
+1 FAMS @F067@
+1 FAMC @F019@
+0 @I249@ INDI
+1 NAME Maximillian /Sbikowski/
+1 SEX M
+1 BIRT
+2 DATE ABT 1822
+1 FAMS @F067@
+0 @I250@ INDI
+1 NAME Mikoiaj /Bartolt/
+1 SEX M
+1 BIRT
+2 DATE ABT 1793
+1 FAMS @F068@
+0 @I251@ INDI
+1 NAME Julianna Wiktoria /Niski/
+1 SEX F
+1 BIRT
+2 DATE ABT 1832
+1 FAMS @F068@
+0 @I252@ INDI
+1 NAME Maryanna /Bartolt/
+1 SEX F
+1 BIRT
+2 DATE 10 Mar 1862
+2 PLAC Zielona, Poland
+1 FAMC @F068@
+0 @I253@ INDI
+1 NAME Michal /Bartolt/
+1 SEX M
+1 BIRT
+2 DATE ABT 1833
+1 FAMS @F069@
+0 @I254@ INDI
+1 NAME Maryanna /Zembrzuski/
+1 SEX F
+1 BIRT
+2 DATE ABT 1835
+1 FAMS @F069@
+0 @I255@ INDI
+1 NAME Alexander /Bartolt/
+1 SEX M
+1 BIRT
+2 DATE 15 Dec 1861
+2 PLAC Zielona, Poland
+1 FAMC @F069@
+0 @I256@ INDI
+1 NAME Salomea /Bartolt/
+1 SEX F
+1 BIRT
+2 DATE 21 Nov 1858
+2 PLAC Zielona, Poland
+1 FAMC @F069@
+0 @I257@ INDI
+1 NAME Tekla Konstancyz /Bartolt/
+1 SEX F
+1 BIRT
+2 DATE 12 Sep 1855
+2 PLAC Zielona, Poland
+1 FAMC @F069@
+0 @I258@ INDI
+1 NAME Wicenty /Bartolt/
+1 SEX M
+1 BIRT
+2 DATE 21 Jul 1864
+2 PLAC Zielona, Poland
+1 FAMC @F069@
+0 @I259@ INDI
+1 NAME Mateusz /Gogolewski/
+1 SEX M
+1 FAMS @F070@
+0 @I260@ INDI
+1 NAME Mikolaj /Bartolt/
+1 SEX M
+1 BIRT
+2 DATE ABT 1791
+1 FAMS @F071@
+0 @I261@ INDI
+1 NAME Wiktoria /Zaleski/
+1 SEX F
+1 BIRT
+2 DATE ABT 1795
+1 FAMS @F071@
+0 @I262@ INDI
+1 NAME Serafin Jan /Bartolt/
+1 SEX M
+1 BIRT
+2 DATE 27 Aug 1815
+2 PLAC Zielona, Poland
+1 DEAT
+2 DATE 27 Jul 1863
+2 PLAC Zielona, Poland
+1 FAMC @F071@
+0 @I263@ INDI
+1 NAME Norbert /Bartolt/
+1 SEX M
+1 BIRT
+2 PLAC Zielona, Poland
+1 FAMS @F073@
+1 FAMC @F072@
+0 @I264@ INDI
+1 NAME Stanislaw /Bartolt/
+1 SEX M
+1 FAMS @F072@
+0 @I265@ INDI
+1 NAME Wiktoria /Kolakowski/
+1 SEX F
+1 FAMS @F072@
+0 @I266@ INDI
+1 NAME Franczeska /Wisniewska/
+1 SEX F
+1 FAMS @F073@
+0 @I267@ INDI
+1 NAME Antonina /Chrzanowski/
+1 SEX F
+1 FAMS @F074@
+0 @I268@ INDI
+1 NAME Pawel /Bartolt/
+1 SEX M
+1 BIRT
+2 DATE ABT 1827
+2 PLAC Czieszugorze, Poland
+1 FAMS @F075@
+1 FAMC @F074@
+0 @I269@ INDI
+1 NAME Marianna /Bartolt/
+1 SEX F
+1 BIRT
+2 DATE ABT 1829
+1 FAMS @F075@
+1 FAMC @F076@
+0 @I270@ INDI
+1 NAME Walenty /Bartolt/
+1 SEX M
+1 FAMS @F076@
+0 @I271@ INDI
+1 NAME Anna /D./
+1 SEX F
+1 FAMS @F076@
+0 @I272@ INDI
+1 NAME Leonora /Bartolt/
+1 SEX F
+1 BIRT
+2 DATE ABT 1859
+1 DEAT
+2 DATE 31 Dec 1862
+2 PLAC Zielona, Poland
+1 FAMC @F075@
+0 @I273@ INDI
+1 NAME Maryanna /Bartolt/
+1 SEX F
+1 BIRT
+2 DATE 1 Oct 1863
+2 PLAC Zielona, Poland
+1 FAMC @F075@
+0 @I274@ INDI
+1 NAME Pawel /Bartolt/
+1 SEX M
+1 BIRT
+2 DATE ABT 1825
+1 FAMS @F077@
+0 @I275@ INDI
+1 NAME Agnieszka /Andzejewski/
+1 SEX F
+1 BIRT
+2 DATE ABT 1825
+1 FAMS @F077@
+0 @I276@ INDI
+1 NAME Ksawery /Bartolt/
+1 SEX M
+1 BIRT
+2 DATE 22 Jan 1865
+2 PLAC Zielona, Poland
+1 FAMC @F077@
+0 @I277@ INDI
+1 NAME Teofilia /Pillikowska/
+1 SEX F
+1 TITL Widow
+1 FAMS @F078@
+0 @I278@ INDI
+1 NAME Konstancya /Bartolt/
+1 SEX F
+1 BIRT
+2 DATE 16 Apr 1850
+2 PLAC Zielona, Poland
+1 DEAT
+2 DATE 7 Mar 1855
+2 PLAC Zielona, Poland
+1 FAMC @F078@
+0 @I279@ INDI
+1 NAME Konstancya /Bartolt/
+1 SEX F
+1 BIRT
+2 DATE 16 Aug 1859
+2 PLAC Zielona, Poland
+1 DEAT
+2 DATE 22 Jun 1865
+2 PLAC Zielona, Poland
+1 FAMC @F078@
+0 @I280@ INDI
+1 NAME Faustina Dorota /Bartolt/
+1 SEX F
+1 BIRT
+2 DATE 15 Feb 1852
+2 PLAC Zielona, Poland
+1 FAMC @F078@
+0 @I281@ INDI
+1 NAME Jozefa /Bartolt/
+1 SEX F
+1 BIRT
+2 DATE 2 Jun 1857
+2 PLAC Zielona, Poland
+1 FAMC @F078@
+0 @I282@ INDI
+1 NAME Maryanna /Bartolt/
+1 SEX F
+1 BIRT
+2 DATE 1 Feb 1864
+1 FAMC @F079@
+0 @I283@ INDI
+1 NAME Rozalia /Bartolt/
+1 SEX F
+1 DEAT
+2 DATE 18 Aug 1819
+2 PLAC Zielona, Poland
+1 FAMC @F027@
+0 @I284@ INDI
+1 NAME Jan /Bartolt/
+1 SEX M
+1 BIRT
+2 DATE 1859
+1 DEAT
+2 DATE 19 Apr 1859
+2 PLAC Zielona, Poland
+1 FAMC @F079@
+0 @I285@ INDI
+1 NAME Szymon /Bartolt/
+1 SEX M
+1 BIRT
+2 DATE 26 Dec 1852
+2 PLAC Zielona, Poland
+1 DEAT
+2 DATE 22 Dec 1854
+2 PLAC Zielona, Poland
+1 FAMC @F079@
+0 @I286@ INDI
+1 NAME Piotr /Bartolt/
+1 SEX M
+1 BIRT
+2 DATE 29 Jun 1850
+2 PLAC Zielona, Poland
+1 DEAT
+2 DATE 2 Feb 1852
+2 PLAC Zielona, Poland
+1 FAMC @F079@
+0 @I287@ INDI
+1 NAME Jan /Bartolt/
+1 SEX M
+1 BIRT
+2 DATE 12 Nov 1848
+2 PLAC Zielona, Poland
+1 DEAT
+2 DATE 1849
+2 PLAC Zielona, Poland
+1 FAMC @F079@
+0 @I288@ INDI
+1 NAME Wiktoria /Bartolt/
+1 SEX F
+1 BIRT
+2 DATE 13 Oct 1854
+2 PLAC Zielona, Poland
+1 FAMC @F079@
+0 @I289@ INDI
+1 NAME Antonina /Bartolt/
+1 SEX F
+1 BIRT
+2 DATE ABT 1825
+1 FAMS @F080@
+1 FAMC @F019@
+0 @I290@ INDI
+1 NAME Saturzyn /Tretowski/
+1 SEX M
+1 TITL Widower
+1 FAMS @F080@
+0 @I291@ INDI
+1 NAME Kaswera /Bartolt/
+1 SEX F
+1 BIRT
+2 DATE 2 Apr 1861
+2 PLAC Zielona, Poland
+1 FAMC @F020@
+0 @I292@ INDI
+1 NAME Faustina Emelia /Bartolt/
+1 SEX F
+1 BIRT
+2 DATE 26 Dec 1856
+2 PLAC Zielona, Poland
+1 FAMC @F020@
+0 @I293@ INDI
+1 NAME Domicilla Marianna /Bartolt/
+1 SEX F
+1 BIRT
+2 DATE 9 Aug 1820
+2 PLAC Zielona, Poland
+1 FAMS @F081@
+1 FAMC @F019@
+0 @I294@ INDI
+1 NAME Stanislaw /Chodowski/
+1 SEX M
+1 FAMS @F081@
+0 @I295@ INDI
+1 NAME Katarzyna /Romanow/
+1 SEX F
+1 BIRT
+2 DATE ABT 1830
+1 FAMS @F082@
+0 @I296@ INDI
+1 NAME Katarzyna /Wyszkowska/
+1 SEX F
+1 BIRT
+2 PLAC Raczki, Poland
+1 FAMS @F083@
+0 @I297@ INDI
+1 NAME Leonard /Bartolt/
+1 SEX M
+1 BIRT
+2 DATE 9 Nov 1851
+2 PLAC Zielona, Poland
+1 DEAT
+2 DATE 25 Aug 1852
+2 PLAC Zielona, Poland
+1 FAMC @F083@
+0 @I298@ INDI
+1 NAME Maryanna /Bartolt/
+1 SEX F
+1 BIRT
+2 DATE 17 Feb 1850
+2 PLAC Zielona, Poland
+1 FAMC @F083@
+0 @I299@ INDI
+1 NAME Wiktoria /Bartolt/
+1 SEX F
+1 BIRT
+2 DATE 28 Oct 1847
+2 PLAC Zielona, Poland
+1 FAMC @F083@
+0 @I300@ INDI
+1 NAME Jozef /Bartolt/
+1 SEX M
+1 BIRT
+2 DATE 7 Jul 1853
+2 PLAC Zielona, Poland
+1 FAMC @F083@
+0 @I301@ INDI
+1 NAME Paulina /Bartolt/
+1 SEX F
+1 BIRT
+2 DATE 11 Jun 1846
+2 PLAC Zielona, Poland
+1 FAMC @F083@
+0 @I302@ INDI
+1 NAME Stanislaw /Milewski/
+1 SEX M
+1 BIRT
+2 DATE ABT 1816
+1 FAMS @F084@
+0 @I303@ INDI
+1 NAME Stanislaw /Bartolt/
+1 SEX M
+1 BIRT
+2 DATE ABT 1764
+1 FAMS @F085@
+0 @I304@ INDI
+1 NAME Petronella /Tanski/
+1 SEX F
+1 BIRT
+2 DATE ABT 1766
+1 FAMS @F085@
+0 @I305@ INDI
+1 NAME Serafina /Bartolt/
+1 SEX F
+1 BIRT
+2 DATE ABT 1807
+1 FAMS @F086@
+1 FAMC @F056@
+0 @I306@ INDI
+1 NAME Stanislaw /Dzlinski/
+1 SEX M
+1 BIRT
+2 DATE ABT 1803
+1 FAMS @F086@
+0 @I307@ INDI
+1 NAME Florentyna /Bartolt/
+1 SEX F
+1 BIRT
+2 DATE 31 May 1853
+2 PLAC Zielona, Poland
+1 FAMC @F072@
+0 @I308@ INDI
+1 NAME Tomasz /Bartolt/
+1 SEX M
+1 BIRT
+2 DATE ABT 1762
+1 DEAT
+2 DATE 24 Jul 1836
+2 PLAC Zielona, Poland
+1 FAMS @F087@
+0 @I309@ INDI
+1 NAME Julianna /Rutkowski/
+1 SEX F
+1 DEAT
+2 DATE 15 Sep 1859
+2 PLAC Zielona, Poland
+1 FAMS @F087@
+0 @I310@ INDI
+1 NAME Tekla Scholastica /Bartolt/
+1 SEX F
+1 BIRT
+2 DATE 20 Feb 1815
+2 PLAC Zielona, Poland
+1 FAMC @F087@
+0 @I311@ INDI
+1 NAME Jozefa /Bartolt/
+1 SEX F
+1 BIRT
+2 DATE 13 Mar 1812
+2 PLAC Zielona, Poland
+1 FAMC @F087@
+0 @I312@ INDI
+1 NAME Marianna /Bartolt/
+1 SEX F
+1 BIRT
+2 DATE 25 Mar 1809
+2 PLAC Zielona, Poland
+1 FAMS @F010@
+1 FAMC @F087@
+0 @I313@ INDI
+1 NAME Serafina Brigida /Bartolt/
+1 SEX F
+1 BIRT
+2 DATE 20 Nov 1817
+2 PLAC Zielona, Poland
+1 DEAT
+2 DATE 1819
+2 PLAC Zielona, Poland
+1 FAMC @F087@
+0 @I314@ INDI
+1 NAME Jadwiga Teresa /Bartolt/
+1 SEX F
+1 BIRT
+2 DATE 9 Sep 1820
+2 PLAC Zielona, Poland
+1 FAMC @F087@
+0 @I315@ INDI
+1 NAME Tekla /Bartolt/
+1 SEX F
+1 BIRT
+2 DATE 1831
+1 DEAT
+2 DATE 5 Jun 1832
+2 PLAC Zielona, Poland
+1 FAMC @F087@
+0 @I316@ INDI
+1 NAME Ludwika /Bartolt/
+1 SEX F
+1 BIRT
+2 DATE ABT 1827
+1 FAMS @F088@
+1 FAMC @F041@
+0 @I317@ INDI
+1 NAME Teodor /Majkowski/
+1 SEX M
+1 TITL Widower
+1 FAMS @F088@
+0 @I318@ INDI
+1 NAME Teodor /Tretowski/
+1 SEX M
+1 FAMS @F089@
+0 @I319@ INDI
+1 NAME Maryann /Bartolt/
+1 SEX F
+1 FAMS @F089@
+0 @I320@ INDI
+1 NAME Jan /Tretowski/
+1 SEX F
+1 BIRT
+2 DATE 1854
+1 DEAT
+2 DATE 21 Dec 1854
+2 PLAC Zielona, Poland
+1 FAMC @F089@
+0 @I321@ INDI
+1 NAME Tomasz /Bartolt/
+1 SEX M
+1 BIRT
+2 DATE ABT 1768
+1 FAMS @F090@
+0 @I322@ INDI
+1 NAME Marianna /Zaleski/
+1 SEX F
+1 BIRT
+2 DATE ABT 1784
+1 FAMS @F090@
+0 @I323@ INDI
+1 NAME Antoni /Bartolt/
+1 SEX M
+1 BIRT
+2 DATE 29 Oct 1808
+2 PLAC Zielona, Poland
+1 FAMC @F090@
+0 @I324@ INDI
+1 NAME Wiktoria /Bartolt/
+1 SEX F
+1 BIRT
+2 DATE ABT 1826
+1 FAMS @F091@
+1 FAMC @F087@
+0 @I325@ INDI
+1 NAME Tomasz /Milewski/
+1 SEX M
+1 BIRT
+2 DATE ABT 1831
+1 FAMS @F091@
+0 @I326@ INDI
+1 NAME Tomasz /Zalipka/
+1 SEX M
+1 TITL Widower
+1 FAMS @F092@
+0 @I327@ INDI
+1 NAME Mateusz /Bartolt/
+1 SEX M
+1 BIRT
+2 DATE ABT 1797
+1 DEAT
+2 DATE 1824
+2 PLAC Zielona, Poland
+1 FAMC @F093@
+0 @I328@ INDI
+1 NAME Walenty /Bartolt/
+1 SEX M
+1 FAMS @F093@
+0 @I329@ INDI
+1 NAME Walenty /Nalecz/
+1 SEX M
+1 BIRT
+2 DATE ABT 1824
+1 FAMS @F094@
+0 @I330@ INDI
+1 NAME Walenty /Bartolt/
+1 SEX M
+1 BIRT
+2 DATE ABT 1788
+1 FAMS @F095@
+1 FAMS @F109@
+1 FAMC @F036@
+0 @I331@ INDI
+1 NAME Anna /Dziliewski/
+1 SEX F
+1 BIRT
+2 DATE ABT 1781
+1 FAMS @F095@
+0 @I332@ INDI
+1 NAME Teresa Rozalia /Bartolt/
+1 SEX F
+1 BIRT
+2 DATE 23 Apr 1814
+2 PLAC Zielona, Poland
+1 FAMC @F095@
+0 @I333@ INDI
+1 NAME Teofilia Katarzyna /Bartolt/
+1 SEX F
+1 BIRT
+2 DATE 23 Apr 1814
+2 PLAC Zielona, Poland
+1 DEAT
+2 DATE 18 Jun 1814
+2 PLAC Zielona, Poland
+1 FAMC @F095@
+0 @I334@ INDI
+1 NAME Salomea Katarzyna /Bartolt/
+1 SEX F
+1 BIRT
+2 DATE 19 Nov 1824
+2 PLAC Zielona, Poland
+1 FAMC @F095@
+0 @I335@ INDI
+1 NAME Walenty /Bartolt/
+1 SEX M
+1 FAMS @F096@
+0 @I336@ INDI
+1 NAME Anna /B./
+1 SEX F
+1 FAMS @F096@
+0 @I337@ INDI
+1 NAME Franciszek /Bartolt/
+1 SEX M
+1 BIRT
+2 DATE ABT 1819
+1 DEAT
+2 DATE 19 Mar 1841
+2 PLAC Zielona, Poland
+1 FAMC @F096@
+0 @I338@ INDI
+1 NAME Wojiciech /Gogolewski/
+1 SEX M
+1 BIRT
+2 DATE ABT 1825
+1 FAMS @F097@
+0 @I339@ INDI
+1 NAME Anna /Bartolt/
+1 SEX F
+1 TITL Widow
+1 BIRT
+2 DATE ABT 1802
+1 FAMS @F098@
+1 FAMS @F097@
+0 @I340@ INDI
+1 NAME Felix /Bartolt/
+1 SEX M
+1 FAMS @F098@
+0 @I341@ INDI
+1 NAME Walenty /Bartolt/
+1 SEX M
+1 BIRT
+2 DATE ABT 1786
+1 FAMS @F099@
+0 @I342@ INDI
+1 NAME Anna /Gozikowski/
+1 SEX F
+1 FAMS @F099@
+0 @I343@ INDI
+1 NAME Marianna Agnieszka /Bartolt/
+1 SEX F
+1 BIRT
+2 DATE 4 Jan 1821
+2 PLAC Zielona, Poland
+1 FAMC @F099@
+0 @I344@ INDI
+1 NAME Andrziej Feliks /Bartolt/
+1 SEX M
+1 BIRT
+2 DATE 20 Nov 1826
+2 PLAC Zielona, Poland
+1 FAMC @F099@
+0 @I345@ INDI
+1 NAME Salomea /Bartolt/
+1 SEX F
+1 BIRT
+2 DATE 8 May 1825
+2 PLAC Zielona, Poland
+1 FAMC @F099@
+0 @I346@ INDI
+1 NAME Jan /Bartolt/
+1 SEX M
+1 BIRT
+2 DATE 16 May 1829
+2 PLAC Zielona, Poland
+1 FAMC @F100@
+0 @I347@ INDI
+1 NAME Waleryan /Bartolt/
+1 SEX M
+1 BIRT
+2 DATE ABT 1771
+1 FAMS @F100@
+0 @I348@ INDI
+1 NAME Cunigunda /Kaminska/
+1 SEX F
+1 BIRT
+2 DATE ABT 1770
+1 FAMS @F100@
+0 @I349@ INDI
+1 NAME Wojciech /Bartolt/
+1 SEX M
+1 BIRT
+2 DATE ABT 1828
+1 FAMS @F101@
+0 @I350@ INDI
+1 NAME Cunigunda /Szczepanowski/
+1 SEX F
+1 BIRT
+2 DATE ABT 1827
+1 FAMS @F101@
+0 @I351@ INDI
+1 NAME Maryanna Antonina /Bartolt/
+1 SEX F
+1 BIRT
+2 DATE 26 Aug 1849
+2 PLAC Zielona, Poland
+1 FAMC @F101@
+0 @I352@ INDI
+1 NAME Augustyn Jan /Bartolt/
+1 SEX M
+1 BIRT
+2 DATE 29 Aug 1852
+2 PLAC Zielona, Poland
+1 FAMC @F101@
+0 @I353@ INDI
+1 NAME Antonina /Bartolt/
+1 SEX F
+1 BIRT
+2 DATE 22 Feb 1852
+2 PLAC Zielona, Poland
+1 FAMC @F101@
+0 @I354@ INDI
+1 NAME Marcell Anton /Bartolt/
+1 SEX M
+1 BIRT
+2 DATE 14 Jan 1851
+2 PLAC Zielona, Poland
+1 FAMC @F101@
+0 @I355@ INDI
+1 NAME Wojciech /Bartolt/
+1 SEX M
+1 BIRT
+2 DATE ABT 1795
+1 FAMS @F102@
+1 FAMC @F087@
+0 @I356@ INDI
+1 NAME Franciszka /Zbikowski/
+1 SEX F
+1 BIRT
+2 DATE ABT 1798
+1 FAMS @F102@
+0 @I357@ INDI
+1 NAME Franciszek /Bartolt/
+1 SEX M
+1 BIRT
+2 DATE 2 Oct 1818
+2 PLAC Zielona, Poland
+1 FAMC @F103@
+0 @I358@ INDI
+1 NAME Walenty /Bartolt/
+1 SEX M
+1 BIRT
+2 DATE ABT 1788
+1 FAMS @F103@
+0 @I359@ INDI
+1 NAME Karola /Chetkowski/
+1 SEX F
+1 BIRT
+2 DATE ABT 1778
+1 FAMS @F103@
+0 @I360@ INDI
+1 NAME Regina /Bartolt/
+1 SEX F
+1 BIRT
+2 DATE 18 Aug 1844
+2 PLAC Zielona, Poland
+1 FAMC @F019@
+0 @I361@ INDI
+1 NAME Wiktoria /Bartolt/
+1 SEX F
+1 BIRT
+2 DATE 24 Dec 1826
+2 PLAC Zielona, Poland
+1 FAMC @F019@
+0 @I362@ INDI
+1 NAME Albina /Bartolt/
+1 SEX F
+1 BIRT
+2 DATE 19 Dec 1839
+2 PLAC Zielona, Poland
+1 FAMC @F019@
+0 @I363@ INDI
+1 NAME Sylwester /Bartolt/
+1 SEX M
+1 BIRT
+2 DATE 30 Dec 1841
+1 FAMC @F019@
+0 @I364@ INDI
+1 NAME Dyonisius /Bartolt/
+1 SEX M
+1 BIRT
+2 DATE 21 May 1831
+2 PLAC Zielona, Poland
+1 DEAT
+2 DATE 10 Jan 1836
+2 PLAC Zielona, Poland
+1 FAMC @F019@
+0 @I365@ INDI
+1 NAME Rozalia /Bartolt/
+1 SEX F
+1 BIRT
+2 DATE 2 Nov 1846
+2 PLAC Zielona, Poland
+1 FAMC @F019@
+0 @I368@ INDI
+1 NAME Unnamed /Bartolt/
+1 SEX M
+1 BIRT
+2 DATE 5 Oct 1847
+2 PLAC Zielona, Poland
+1 DEAT
+2 DATE 5 Oct 1847
+2 PLAC Zielona, Poland
+1 FAMC @F019@
+0 @I369@ INDI
+1 NAME Michal /Bartolt/
+1 SEX M
+1 BIRT
+2 DATE 25 Sep 1833
+2 PLAC Zielona, Poland
+1 FAMC @F019@
+0 @I370@ INDI
+1 NAME Walenty /Bartolt/
+1 SEX M
+1 BIRT
+2 DATE ABT 1789
+1 FAMS @F104@
+0 @I371@ INDI
+1 NAME Marianna /Puchalski/
+1 SEX F
+1 BIRT
+2 DATE ABT 1807
+1 FAMS @F104@
+0 @I372@ INDI
+1 NAME Teofila /Bartolt/
+1 SEX F
+1 BIRT
+2 DATE 23 Jan 1831
+1 FAMC @F104@
+0 @I373@ INDI
+1 NAME Walenty /Bartolt/
+1 SEX M
+1 BIRT
+2 DATE ABT 1898
+1 FAMS @F105@
+0 @I374@ INDI
+1 NAME Marianna /Zaleski/
+1 SEX F
+1 BIRT
+2 DATE ABT 1894
+1 FAMS @F105@
+0 @I375@ INDI
+1 NAME Mateusz /Bartolt/
+1 SEX M
+1 BIRT
+2 DATE 12 Sep 1825
+1 FAMC @F105@
+0 @I376@ INDI
+1 NAME Maryanna /Bartolt/
+1 SEX F
+1 BIRT
+2 DATE 6 Feb 1863
+2 PLAC Zielona, Poland
+1 FAMC @F023@
+0 @I377@ INDI
+1 NAME Domicilla /Bartolt/
+1 SEX F
+1 BIRT
+2 DATE 9 May 1861
+2 PLAC Zielona, Poland
+1 FAMC @F023@
+0 @I378@ INDI
+1 NAME Wojciech /Bartolt/
+1 SEX M
+1 FAMS @F106@
+0 @I379@ INDI
+1 NAME Scholastica /Kamienski/
+1 SEX F
+1 FAMS @F106@
+0 @I380@ INDI
+1 NAME Wiktoria /Bartolt/
+1 SEX F
+1 BIRT
+2 DATE ABT 1818
+1 DEAT
+2 DATE 22 Feb 1834
+2 PLAC Zielona, Poland
+1 FAMC @F106@
+0 @I381@ INDI
+1 NAME Walenty /Bartolt/
+1 SEX M
+1 BIRT
+2 DATE ABT 1788
+1 FAMS @F107@
+1 FAMC @F108@
+0 @I382@ INDI
+1 NAME Tekla /Malgorzata/
+1 SEX F
+1 BIRT
+2 DATE ABT 1809
+1 FAMS @F107@
+0 @I383@ INDI
+1 NAME Bonaventure /Bartolt/
+1 SEX M
+1 FAMS @F108@
+0 @I384@ INDI
+1 NAME Antonina /Cichowski/
+1 SEX F
+1 FAMS @F108@
+0 @I385@ INDI
+1 NAME Wiktoria /Stryewski/
+1 SEX F
+1 BIRT
+2 DATE ABT 1809
+1 DEAT
+2 DATE 26 Mar 1839
+2 PLAC Zielona, Poland
+1 FAMS @F109@
+0 @I386@ INDI
+1 NAME Teofilia /Bartolt/
+1 SEX F
+1 BIRT
+2 DATE 11 Mar 1836
+2 PLAC Zielona, Poland
+1 DEAT
+2 DATE 4 Nov 1837
+2 PLAC Zielona, Poland
+1 FAMC @F109@
+0 @I387@ INDI
+1 NAME Anastasia Barbara /Bartolt/
+1 SEX F
+1 BIRT
+2 DATE 27 Apr 1834
+2 PLAC Zielona, Poland
+1 DEAT
+2 DATE 1 May 1835
+2 PLAC Zielona, Poland
+1 FAMC @F109@
+0 @I388@ INDI
+1 NAME Jan /Bartolt/
+1 SEX M
+1 BIRT
+2 DATE ABT 1782
+1 DEAT
+2 DATE 14 Jan 1857
+0 @I389@ INDI
+1 NAME Wlenty /Bartolt/
+1 SEX M
+1 BIRT
+2 DATE ABT 1791
+1 DEAT
+2 DATE 8 Nov 1841
+2 PLAC Zielona, Poland
+0 @I390@ INDI
+1 NAME Ignaczy /Bartolt/
+1 SEX M
+1 BIRT
+2 DATE ABT 1729
+1 DEAT
+2 DATE 30 Nov 1821
+2 PLAC Zielona, Poland
+0 @I391@ INDI
+1 NAME Agnieszka /Bartolt/
+1 SEX M
+1 TITL Widow
+1 DEAT
+2 DATE 16 Nov 1843
+2 PLAC Zielona, Poland
+0 @F001@ FAM
+1 HUSB @I001@
+1 WIFE @I002@
+1 MARR
+2 DATE 18 Feb 1742
+2 PLAC or 43, Paluki, Poland
+0 @F002@ FAM
+1 HUSB @I003@
+1 WIFE @I004@
+1 MARR
+2 DATE 21 Feb 1742
+2 PLAC or 43 Paluki, Poland
+0 @F003@ FAM
+1 HUSB @I005@
+1 WIFE @I006@
+1 MARR
+2 DATE 3 Jul 1753
+2 PLAC Paluki, Poland
+0 @F004@ FAM
+1 HUSB @I007@
+1 WIFE @I008@
+1 MARR
+2 DATE 30 Jul 1759
+2 PLAC Paluki, Poland
+0 @F005@ FAM
+1 HUSB @I009@
+1 WIFE @I010@
+1 MARR
+2 DATE 22 Jul 1767
+2 PLAC Paluki, Poland
+0 @F006@ FAM
+1 HUSB @I011@
+1 WIFE @I012@
+1 MARR
+2 DATE 2 Feb 1774
+2 PLAC Paluki, Poland
+0 @F007@ FAM
+1 HUSB @I013@
+1 WIFE @I014@
+1 MARR
+2 DATE 13 Feb 1774
+2 PLAC Paluki, Poland
+0 @F008@ FAM
+1 HUSB @I140@
+1 WIFE @I203@
+1 CHIL @I206@
+2 _FREL Natural
+2 _MREL Natural
+1 CHIL @I205@
+2 _FREL Natural
+2 _MREL Natural
+1 CHIL @I207@
+2 _FREL Natural
+2 _MREL Natural
+1 CHIL @I204@
+2 _FREL Natural
+2 _MREL Natural
+1 MARR
+2 DATE 9 Nov 1856
+2 PLAC Zielona, Poland
+0 @F009@ FAM
+1 HUSB @I226@
+1 WIFE @I217@
+1 MARR
+2 DATE 22 Feb 1865
+2 PLAC Zielona, Poland
+0 @F010@ FAM
+1 HUSB @I067@
+1 WIFE @I312@
+1 MARR
+2 DATE 25 Jul 1832
+2 PLAC Zielona, Poland
+0 @F011@ FAM
+1 HUSB @I015@
+1 WIFE @I016@
+1 MARR
+2 DATE 11 Nov 1777
+2 PLAC Paluki, Poland
+0 @F012@ FAM
+1 HUSB @I020@
+1 WIFE @I021@
+1 CHIL @I034@
+2 _FREL Natural
+2 _MREL Natural
+1 CHIL @I019@
+2 _FREL Natural
+2 _MREL Natural
+1 CHIL @I022@
+2 _FREL Natural
+2 _MREL Natural
+1 CHIL @I027@
+2 _FREL Natural
+2 _MREL Natural
+1 CHIL @I057@
+2 _FREL Natural
+2 _MREL Natural
+1 CHIL @I032@
+2 _FREL Natural
+2 _MREL Natural
+1 CHIL @I033@
+2 _FREL Natural
+2 _MREL Natural
+0 @F013@ FAM
+1 HUSB @I025@
+1 WIFE @I026@
+1 CHIL @I024@
+2 _FREL Natural
+2 _MREL Natural
+0 @F014@ FAM
+1 HUSB @I030@
+1 WIFE @I031@
+1 CHIL @I029@
+2 _FREL Natural
+2 _MREL Natural
+0 @F015@ FAM
+1 HUSB @I036@
+1 WIFE @I037@
+1 CHIL @I035@
+2 _FREL Natural
+2 _MREL Natural
+1 CHIL @I041@
+2 _FREL Natural
+2 _MREL Natural
+1 CHIL @I042@
+2 _FREL Natural
+2 _MREL Natural
+1 CHIL @I044@
+2 _FREL Natural
+2 _MREL Natural
+1 CHIL @I045@
+2 _FREL Natural
+2 _MREL Natural
+1 CHIL @I046@
+2 _FREL Natural
+2 _MREL Natural
+1 CHIL @I047@
+2 _FREL Natural
+2 _MREL Natural
+1 CHIL @I049@
+2 _FREL Natural
+2 _MREL Natural
+1 CHIL @I050@
+2 _FREL Natural
+2 _MREL Natural
+1 CHIL @I054@
+2 _FREL Natural
+2 _MREL Natural
+0 @F016@ FAM
+1 HUSB @I039@
+1 WIFE @I040@
+1 CHIL @I038@
+2 _FREL Natural
+2 _MREL Natural
+0 @F017@ FAM
+1 HUSB @I052@
+1 WIFE @I053@
+1 CHIL @I051@
+2 _FREL Natural
+2 _MREL Natural
+0 @F018@ FAM
+1 HUSB @I055@
+1 WIFE @I056@
+1 CHIL @I194@
+2 _FREL Natural
+2 _MREL Natural
+1 CHIL @I195@
+2 _FREL Natural
+2 _MREL Natural
+1 CHIL @I196@
+2 _FREL Natural
+2 _MREL Natural
+1 CHIL @I197@
+2 _FREL Natural
+2 _MREL Natural
+1 CHIL @I198@
+2 _FREL Natural
+2 _MREL Natural
+1 CHIL @I199@
+2 _FREL Natural
+2 _MREL Natural
+1 CHIL @I200@
+2 _FREL Natural
+2 _MREL Natural
+1 CHIL @I201@
+2 _FREL Natural
+2 _MREL Natural
+1 CHIL @I202@
+2 _FREL Natural
+2 _MREL Natural
+1 MARR
+2 DATE 3 Jan 1845
+2 PLAC Paluki, Poland
+0 @F019@ FAM
+1 HUSB @I057@
+1 WIFE @I058@
+1 CHIL @I293@
+2 _FREL Natural
+2 _MREL Natural
+1 CHIL @I055@
+2 _FREL Natural
+2 _MREL Natural
+1 CHIL @I289@
+2 _FREL Natural
+2 _MREL Natural
+1 CHIL @I361@
+2 _FREL Natural
+2 _MREL Natural
+1 CHIL @I364@
+2 _FREL Natural
+2 _MREL Natural
+1 CHIL @I369@
+2 _FREL Natural
+2 _MREL Natural
+1 CHIL @I248@
+2 _FREL Natural
+2 _MREL Natural
+1 CHIL @I362@
+2 _FREL Natural
+2 _MREL Natural
+1 CHIL @I363@
+2 _FREL Natural
+2 _MREL Natural
+1 CHIL @I360@
+2 _FREL Natural
+2 _MREL Natural
+1 CHIL @I365@
+2 _FREL Natural
+2 _MREL Natural
+1 CHIL @I368@
+2 _FREL Natural
+2 _MREL Natural
+1 MARR
+2 DATE 26 Nov 1817
+2 PLAC Zielona, Poland
+0 @F020@ FAM
+1 HUSB @I044@
+1 WIFE @I061@
+1 CHIL @I059@
+2 _FREL Natural
+2 _MREL Natural
+1 CHIL @I062@
+2 _FREL Natural
+2 _MREL Natural
+1 CHIL @I291@
+2 _FREL Natural
+2 _MREL Natural
+1 CHIL @I292@
+2 _FREL Natural
+2 _MREL Natural
+1 CHIL @I060@
+2 _FREL Natural
+2 _MREL Natural
+1 MARR
+2 DATE 17 Jan 1847
+2 PLAC Zielona, Poland
+0 @F021@ FAM
+1 HUSB @I046@
+1 WIFE @I063@
+1 CHIL @I064@
+2 _FREL Natural
+2 _MREL Natural
+1 CHIL @I069@
+2 _FREL Natural
+2 _MREL Natural
+1 MARR
+2 DATE 18 Feb 1851
+2 PLAC Paluki, Poland
+0 @F022@ FAM
+1 HUSB @I046@
+1 WIFE @I070@
+1 MARR
+2 DATE 23 Feb 1858
+2 PLAC Paluki, Poland
+0 @F023@ FAM
+1 HUSB @I236@
+1 WIFE @I072@
+1 CHIL @I377@
+2 _FREL Natural
+2 _MREL Natural
+1 CHIL @I376@
+2 _FREL Natural
+2 _MREL Natural
+1 MARR
+2 DATE 29 Feb 1860
+2 PLAC Paluki, Poland
+0 @F024@ FAM
+1 HUSB @I075@
+1 WIFE @I076@
+1 CHIL @I077@
+2 _FREL Natural
+2 _MREL Natural
+1 CHIL @I078@
+2 _FREL Natural
+2 _MREL Natural
+1 CHIL @I079@
+2 _FREL Natural
+2 _MREL Natural
+1 MARR
+2 DATE 23 Feb 1852
+2 PLAC Zielona, Poland
+0 @F025@ FAM
+1 HUSB @I080@
+1 WIFE @I081@
+1 CHIL @I082@
+2 _FREL Natural
+2 _MREL Natural
+1 CHIL @I083@
+2 _FREL Natural
+2 _MREL Natural
+1 CHIL @I084@
+2 _FREL Natural
+2 _MREL Natural
+1 CHIL @I085@
+2 _FREL Natural
+2 _MREL Natural
+1 CHIL @I086@
+2 _FREL Natural
+2 _MREL Natural
+1 CHIL @I108@
+2 _FREL Natural
+2 _MREL Natural
+1 CHIL @I087@
+2 _FREL Natural
+2 _MREL Natural
+1 CHIL @I088@
+2 _FREL Natural
+2 _MREL Natural
+1 CHIL @I089@
+2 _FREL Natural
+2 _MREL Natural
+1 CHIL @I090@
+2 _FREL Natural
+2 _MREL Natural
+0 @F026@ FAM
+1 HUSB @I144@
+1 WIFE @I145@
+1 CHIL @I148@
+2 _FREL Natural
+2 _MREL Natural
+1 CHIL @I149@
+2 _FREL Natural
+2 _MREL Natural
+1 CHIL @I150@
+2 _FREL Natural
+2 _MREL Natural
+1 CHIL @I151@
+2 _FREL Natural
+2 _MREL Natural
+1 CHIL @I152@
+2 _FREL Natural
+2 _MREL Natural
+1 MARR
+2 DATE 12 Feb 1809
+2 PLAC Zielona, Poland
+0 @F027@ FAM
+1 HUSB @I091@
+1 WIFE @I092@
+1 CHIL @I283@
+2 _FREL Natural
+2 _MREL Natural
+1 CHIL @I093@
+2 _FREL Natural
+2 _MREL Natural
+1 CHIL @I094@
+2 _FREL Natural
+2 _MREL Natural
+1 CHIL @I095@
+2 _FREL Natural
+2 _MREL Natural
+1 CHIL @I096@
+2 _FREL Natural
+2 _MREL Natural
+1 MARR
+2 DATE 6 Feb 1812
+2 PLAC Zielona, Poland
+0 @F028@ FAM
+1 HUSB @I097@
+1 WIFE @I098@
+1 CHIL @I100@
+2 _FREL Natural
+2 _MREL Natural
+1 CHIL @I099@
+2 _FREL Natural
+2 _MREL Natural
+0 @F029@ FAM
+1 HUSB @I101@
+1 WIFE @I102@
+1 CHIL @I104@
+2 _FREL Natural
+2 _MREL Natural
+1 CHIL @I103@
+2 _FREL Natural
+2 _MREL Natural
+0 @F030@ FAM
+1 HUSB @I109@
+1 WIFE @I110@
+1 CHIL @I114@
+2 _FREL Natural
+2 _MREL Natural
+1 CHIL @I111@
+2 _FREL Natural
+2 _MREL Natural
+1 CHIL @I112@
+2 _FREL Natural
+2 _MREL Natural
+1 CHIL @I115@
+2 _FREL Natural
+2 _MREL Natural
+1 CHIL @I113@
+2 _FREL Natural
+2 _MREL Natural
+0 @F031@ FAM
+1 HUSB @I105@
+1 WIFE @I106@
+1 CHIL @I107@
+2 _FREL Natural
+2 _MREL Natural
+0 @F032@ FAM
+1 HUSB @I116@
+1 WIFE @I117@
+1 MARR
+2 DATE 16 Jul 1832
+2 PLAC Zielona, Poland
+0 @F033@ FAM
+1 HUSB @I120@
+1 WIFE @I083@
+1 MARR
+2 DATE 8 Feb 1844
+2 PLAC Zielona, Poland
+0 @F034@ FAM
+1 HUSB @I123@
+1 WIFE @I124@
+0 @F035@ FAM
+1 HUSB @I109@
+1 WIFE @I125@
+1 CHIL @I075@
+2 _FREL Family member
+2 _MREL Family member
+1 CHIL @I128@
+2 _FREL Family member
+2 _MREL Family member
+0 @F036@ FAM
+1 HUSB @I074@
+1 WIFE @I073@
+1 CHIL @I129@
+2 _FREL Natural
+2 _MREL Natural
+1 CHIL @I330@
+2 _FREL Natural
+2 _MREL Natural
+0 @F037@ FAM
+1 HUSB @I109@
+1 WIFE @I122@
+1 CHIL @I127@
+2 _FREL Family member
+2 _MREL Family member
+1 CHIL @I134@
+2 _FREL Natural
+2 _MREL Natural
+1 CHIL @I126@
+2 _FREL Family member
+2 _MREL Family member
+1 MARR
+2 DATE 12 Oct 1819
+2 PLAC Zielona, Poland
+0 @F038@ FAM
+1 HUSB @I130@
+1 WIFE @I129@
+1 MARR
+2 DATE 22 Nov 1819
+2 PLAC Zielona, Poland
+0 @F039@ FAM
+1 HUSB @I131@
+1 WIFE @I132@
+1 CHIL @I091@
+2 _FREL Natural
+2 _MREL Natural
+0 @F040@ FAM
+1 HUSB @I135@
+1 WIFE @I127@
+1 MARR
+2 DATE 25 Nov 1840
+2 PLAC Zielona, Poland
+0 @F041@ FAM
+1 HUSB @I136@
+1 WIFE @I137@
+1 CHIL @I141@
+2 _FREL Natural
+2 _MREL Natural
+1 CHIL @I138@
+2 _FREL Natural
+2 _MREL Natural
+1 CHIL @I316@
+2 _FREL Natural
+2 _MREL Natural
+1 CHIL @I139@
+2 _FREL Natural
+2 _MREL Natural
+1 CHIL @I140@
+2 _FREL Natural
+2 _MREL Natural
+0 @F042@ FAM
+1 HUSB @I142@
+1 WIFE @I143@
+0 @F043@ FAM
+1 HUSB @I245@
+1 WIFE @I246@
+1 CHIL @I247@
+2 _FREL Natural
+2 _MREL Natural
+1 MARR
+2 DATE 31 Dec 1832
+0 @F044@ FAM
+1 HUSB @I146@
+1 WIFE @I147@
+1 CHIL @I144@
+2 _FREL Natural
+2 _MREL Natural
+0 @F045@ FAM
+1 HUSB @I153@
+1 WIFE @I154@
+1 CHIL @I080@
+2 _FREL Natural
+2 _MREL Natural
+0 @F046@ FAM
+1 HUSB @I155@
+1 WIFE @I156@
+1 CHIL @I157@
+2 _FREL Natural
+2 _MREL Natural
+0 @F047@ FAM
+1 HUSB @I158@
+1 WIFE @I157@
+1 MARR
+2 DATE 1842
+2 PLAC Zielona, Poland
+0 @F048@ FAM
+1 HUSB @I159@
+1 WIFE @I160@
+1 MARR
+2 DATE 5 Feb 1851
+2 PLAC Zielona, Poland
+0 @F049@ FAM
+1 HUSB @I161@
+1 WIFE @I162@
+1 CHIL @I163@
+2 _FREL Natural
+2 _MREL Natural
+0 @F050@ FAM
+1 HUSB @I164@
+1 WIFE @I165@
+1 CHIL @I166@
+2 _FREL Natural
+2 _MREL Natural
+0 @F051@ FAM
+1 HUSB @I167@
+1 WIFE @I169@
+1 CHIL @I168@
+2 _FREL Natural
+2 _MREL Natural
+0 @F052@ FAM
+1 HUSB @I173@
+1 WIFE @I174@
+1 CHIL @I175@
+2 _FREL Natural
+2 _MREL Natural
+1 CHIL @I176@
+2 _FREL Natural
+2 _MREL Natural
+1 CHIL @I177@
+2 _FREL Natural
+2 _MREL Natural
+1 CHIL @I178@
+2 _FREL Natural
+2 _MREL Natural
+0 @F053@ FAM
+1 HUSB @I170@
+1 WIFE @I171@
+1 CHIL @I172@
+2 _FREL Natural
+2 _MREL Natural
+0 @F054@ FAM
+1 HUSB @I118@
+1 WIFE @I180@
+1 CHIL @I116@
+2 _FREL Natural
+2 _MREL Family member
+1 CHIL @I242@
+2 _FREL Natural
+2 _MREL Natural
+1 CHIL @I182@
+2 _FREL Natural
+2 _MREL Natural
+1 CHIL @I185@
+2 _FREL Natural
+2 _MREL Natural
+1 CHIL @I183@
+2 _FREL Natural
+2 _MREL Natural
+1 CHIL @I184@
+2 _FREL Natural
+2 _MREL Natural
+1 CHIL @I181@
+2 _FREL Natural
+2 _MREL Natural
+0 @F055@ FAM
+1 HUSB @I115@
+1 WIFE @I189@
+1 CHIL @I188@
+2 _FREL Family member
+2 _MREL Family member
+1 MARR
+2 DATE 1842
+2 PLAC Zielona, Poland
+0 @F056@ FAM
+1 HUSB @I187@
+1 WIFE @I186@
+1 CHIL @I305@
+2 _FREL Natural
+2 _MREL Natural
+0 @F057@ FAM
+1 HUSB @I108@
+1 WIFE @I190@
+1 CHIL @I191@
+2 _FREL Natural
+2 _MREL Natural
+1 CHIL @I211@
+2 _FREL Natural
+2 _MREL Natural
+1 CHIL @I192@
+2 _FREL Natural
+2 _MREL Natural
+1 CHIL @I193@
+2 _FREL Natural
+2 _MREL Natural
+1 MARR
+2 DATE 7 May 1855
+2 PLAC Zielona, Poland
+0 @F058@ FAM
+1 HUSB @I208@
+1 WIFE @I209@
+1 CHIL @I210@
+2 _FREL Natural
+2 _MREL Natural
+0 @F059@ FAM
+1 HUSB @I212@
+1 WIFE @I213@
+1 CHIL @I214@
+2 _FREL Natural
+2 _MREL Natural
+0 @F060@ FAM
+1 HUSB @I215@
+1 WIFE @I216@
+1 CHIL @I221@
+2 _FREL Natural
+2 _MREL Natural
+1 CHIL @I218@
+2 _FREL Natural
+2 _MREL Natural
+1 CHIL @I217@
+2 _FREL Natural
+2 _MREL Natural
+1 CHIL @I219@
+2 _FREL Natural
+2 _MREL Natural
+1 CHIL @I220@
+2 _FREL Natural
+2 _MREL Natural
+0 @F061@ FAM
+1 HUSB @I222@
+1 WIFE @I223@
+1 CHIL @I224@
+2 _FREL Natural
+2 _MREL Natural
+0 @F062@ FAM
+1 HUSB @I225@
+1 WIFE @I224@
+1 MARR
+2 DATE 22 Feb 1824
+2 PLAC Zielona, Poland
+0 @F063@ FAM
+1 HUSB @I177@
+1 WIFE @I227@
+1 CHIL @I228@
+2 _FREL Natural
+2 _MREL Natural
+0 @F064@ FAM
+1 HUSB @I229@
+1 WIFE @I230@
+1 CHIL @I231@
+2 _FREL Natural
+2 _MREL Natural
+0 @F065@ FAM
+1 HUSB @I232@
+1 WIFE @I233@
+1 CHIL @I236@
+2 _FREL Natural
+2 _MREL Natural
+1 CHIL @I239@
+2 _FREL Natural
+2 _MREL Natural
+1 CHIL @I241@
+2 _FREL Natural
+2 _MREL Natural
+1 CHIL @I235@
+2 _FREL Natural
+2 _MREL Natural
+1 CHIL @I234@
+2 _FREL Natural
+2 _MREL Natural
+1 CHIL @I237@
+2 _FREL Natural
+2 _MREL Natural
+1 CHIL @I240@
+2 _FREL Natural
+2 _MREL Natural
+1 CHIL @I238@
+2 _FREL Natural
+2 _MREL Natural
+0 @F066@ FAM
+1 HUSB @I242@
+1 WIFE @I243@
+1 CHIL @I244@
+2 _FREL Natural
+2 _MREL Natural
+1 MARR
+2 DATE 9 Aug 1836
+2 PLAC Zielona, Poland
+0 @F067@ FAM
+1 HUSB @I249@
+1 WIFE @I248@
+1 MARR
+2 DATE 3 Nov 1859
+2 PLAC Zielona, Poland
+0 @F068@ FAM
+1 HUSB @I250@
+1 WIFE @I251@
+1 CHIL @I252@
+2 _FREL Natural
+2 _MREL Natural
+0 @F069@ FAM
+1 HUSB @I253@
+1 WIFE @I254@
+1 CHIL @I255@
+2 _FREL Natural
+2 _MREL Natural
+1 CHIL @I256@
+2 _FREL Natural
+2 _MREL Natural
+1 CHIL @I257@
+2 _FREL Natural
+2 _MREL Natural
+1 CHIL @I258@
+2 _FREL Natural
+2 _MREL Natural
+0 @F070@ FAM
+1 HUSB @I259@
+1 WIFE @I152@
+1 MARR
+2 DATE 22 Feb 1846
+2 PLAC Zielona, Poland
+0 @F071@ FAM
+1 HUSB @I260@
+1 WIFE @I261@
+1 CHIL @I262@
+2 _FREL Natural
+2 _MREL Natural
+0 @F072@ FAM
+1 HUSB @I264@
+1 WIFE @I265@
+1 CHIL @I263@
+2 _FREL Natural
+2 _MREL Natural
+1 CHIL @I307@
+2 _FREL Natural
+2 _MREL Natural
+0 @F073@ FAM
+1 HUSB @I263@
+1 WIFE @I266@
+1 MARR
+2 DATE 12 Nov 1865
+2 PLAC Zielona, Poland
+0 @F074@ FAM
+1 HUSB @I071@
+1 WIFE @I267@
+1 CHIL @I268@
+2 _FREL Natural
+2 _MREL Natural
+0 @F075@ FAM
+1 HUSB @I268@
+1 WIFE @I269@
+1 CHIL @I065@
+2 _FREL Family member
+2 _MREL Family member
+1 CHIL @I068@
+2 _FREL Family member
+2 _MREL Family member
+1 CHIL @I272@
+2 _FREL Natural
+2 _MREL Natural
+1 CHIL @I273@
+2 _FREL Natural
+2 _MREL Natural
+1 MARR
+2 DATE 22 Nov 1846
+2 PLAC Zielona, Poland
+0 @F076@ FAM
+1 HUSB @I270@
+1 WIFE @I271@
+1 CHIL @I269@
+2 _FREL Natural
+2 _MREL Natural
+0 @F077@ FAM
+1 HUSB @I274@
+1 WIFE @I275@
+1 CHIL @I276@
+2 _FREL Natural
+2 _MREL Natural
+0 @F078@ FAM
+1 HUSB @I150@
+1 WIFE @I277@
+1 CHIL @I278@
+2 _FREL Natural
+2 _MREL Natural
+1 CHIL @I279@
+2 _FREL Natural
+2 _MREL Natural
+1 CHIL @I280@
+2 _FREL Natural
+2 _MREL Natural
+1 CHIL @I281@
+2 _FREL Natural
+2 _MREL Natural
+1 MARR
+2 DATE 21 Nov 1849
+2 PLAC Zielona, Poland
+0 @F079@ FAM
+1 HUSB @I138@
+1 WIFE @I095@
+1 CHIL @I282@
+2 _FREL Natural
+2 _MREL Natural
+1 CHIL @I284@
+2 _FREL Natural
+2 _MREL Natural
+1 CHIL @I285@
+2 _FREL Natural
+2 _MREL Natural
+1 CHIL @I286@
+2 _FREL Natural
+2 _MREL Natural
+1 CHIL @I287@
+2 _FREL Natural
+2 _MREL Natural
+1 CHIL @I288@
+2 _FREL Natural
+2 _MREL Natural
+1 MARR
+2 DATE 27 Jan 1847
+2 PLAC Zielona, Poland
+0 @F080@ FAM
+1 HUSB @I290@
+1 WIFE @I289@
+1 MARR
+2 DATE 26 Nov 1845
+2 PLAC Zielona, Poland
+0 @F081@ FAM
+1 HUSB @I294@
+1 WIFE @I293@
+1 MARR
+2 DATE 20 Feb 1839
+2 PLAC Zielona, Poland
+0 @F082@ FAM
+1 HUSB @I128@
+1 WIFE @I295@
+1 MARR
+2 DATE 1856
+2 PLAC Zielona, Poland
+0 @F083@ FAM
+1 HUSB @I096@
+1 WIFE @I296@
+1 CHIL @I301@
+2 _FREL Natural
+2 _MREL Natural
+1 CHIL @I299@
+2 _FREL Natural
+2 _MREL Natural
+1 CHIL @I298@
+2 _FREL Natural
+2 _MREL Natural
+1 CHIL @I297@
+2 _FREL Natural
+2 _MREL Natural
+1 CHIL @I300@
+2 _FREL Natural
+2 _MREL Natural
+1 MARR
+2 DATE 28 Nov 1844
+2 PLAC Zielona, Poland
+0 @F084@ FAM
+1 HUSB @I302@
+1 WIFE @I183@
+1 MARR
+2 DATE 1842
+2 PLAC Zielona, Poland
+0 @F085@ FAM
+1 HUSB @I303@
+1 WIFE @I304@
+1 MARR
+2 DATE 12 Nov 1810
+2 PLAC Zielona, Poland
+0 @F086@ FAM
+1 HUSB @I306@
+1 WIFE @I305@
+1 MARR
+2 DATE 17 Jul 1822
+2 PLAC Zielona, Poland
+0 @F087@ FAM
+1 HUSB @I308@
+1 WIFE @I309@
+1 CHIL @I355@
+2 _FREL Natural
+2 _MREL Natural
+1 CHIL @I312@
+2 _FREL Natural
+2 _MREL Natural
+1 CHIL @I311@
+2 _FREL Natural
+2 _MREL Natural
+1 CHIL @I310@
+2 _FREL Natural
+2 _MREL Natural
+1 CHIL @I313@
+2 _FREL Natural
+2 _MREL Natural
+1 CHIL @I314@
+2 _FREL Natural
+2 _MREL Natural
+1 CHIL @I324@
+2 _FREL Natural
+2 _MREL Natural
+1 CHIL @I315@
+2 _FREL Natural
+2 _MREL Natural
+0 @F088@ FAM
+1 HUSB @I317@
+1 WIFE @I316@
+1 MARR
+2 DATE 6 Jun 1852
+2 PLAC Zielona, Poland
+0 @F089@ FAM
+1 HUSB @I318@
+1 WIFE @I319@
+1 CHIL @I320@
+2 _FREL Natural
+2 _MREL Natural
+0 @F090@ FAM
+1 HUSB @I321@
+1 WIFE @I322@
+1 CHIL @I323@
+2 _FREL Natural
+2 _MREL Natural
+0 @F091@ FAM
+1 HUSB @I325@
+1 WIFE @I324@
+1 MARR
+2 DATE 16 Feb 1850
+2 PLAC Zielona, Poland
+0 @F092@ FAM
+1 HUSB @I326@
+1 WIFE @I137@
+1 MARR
+2 DATE 7 Feb 1847
+2 PLAC Zielona, Poland
+0 @F093@ FAM
+1 HUSB @I328@
+1 CHIL @I327@
+2 _FREL Natural
+2 _MREL Natural
+0 @F094@ FAM
+1 HUSB @I329@
+1 WIFE @I086@
+1 MARR
+2 DATE 6 Mar 1848
+2 PLAC Zielona, Poland
+0 @F095@ FAM
+1 HUSB @I330@
+1 WIFE @I331@
+1 CHIL @I332@
+2 _FREL Natural
+2 _MREL Natural
+1 CHIL @I333@
+2 _FREL Natural
+2 _MREL Natural
+1 CHIL @I334@
+2 _FREL Natural
+2 _MREL Natural
+1 MARR
+2 DATE 10 Feb 1813
+2 PLAC Zielona, Poland
+0 @F096@ FAM
+1 HUSB @I335@
+1 WIFE @I336@
+1 CHIL @I337@
+2 _FREL Natural
+2 _MREL Natural
+1 CHIL @I066@
+2 _FREL Natural
+2 _MREL Natural
+0 @F097@ FAM
+1 HUSB @I338@
+1 WIFE @I339@
+1 MARR
+2 DATE 5 Jul 1849
+2 PLAC Zielona, Poland
+0 @F098@ FAM
+1 HUSB @I340@
+1 WIFE @I339@
+0 @F099@ FAM
+1 HUSB @I341@
+1 WIFE @I342@
+1 CHIL @I343@
+2 _FREL Natural
+2 _MREL Natural
+1 CHIL @I344@
+2 _FREL Natural
+2 _MREL Natural
+1 CHIL @I345@
+2 _FREL Natural
+2 _MREL Natural
+0 @F100@ FAM
+1 HUSB @I347@
+1 WIFE @I348@
+1 CHIL @I346@
+2 _FREL Natural
+2 _MREL Natural
+0 @F101@ FAM
+1 HUSB @I349@
+1 WIFE @I350@
+1 CHIL @I351@
+2 _FREL Natural
+2 _MREL Natural
+1 CHIL @I354@
+2 _FREL Natural
+2 _MREL Natural
+1 CHIL @I353@
+2 _FREL Natural
+2 _MREL Natural
+1 CHIL @I352@
+2 _FREL Natural
+2 _MREL Natural
+0 @F102@ FAM
+1 HUSB @I355@
+1 WIFE @I356@
+1 MARR
+2 DATE 25 Nov 1832
+2 PLAC Zielona, Poland
+0 @F103@ FAM
+1 HUSB @I358@
+1 WIFE @I359@
+1 CHIL @I357@
+2 _FREL Natural
+2 _MREL Natural
+0 @F104@ FAM
+1 HUSB @I370@
+1 WIFE @I371@
+1 CHIL @I372@
+2 _FREL Natural
+2 _MREL Natural
+0 @F105@ FAM
+1 HUSB @I373@
+1 WIFE @I374@
+1 CHIL @I375@
+2 _FREL Natural
+2 _MREL Natural
+0 @F106@ FAM
+1 HUSB @I378@
+1 WIFE @I379@
+1 CHIL @I380@
+2 _FREL Natural
+2 _MREL Natural
+0 @F107@ FAM
+1 HUSB @I381@
+1 WIFE @I382@
+1 MARR
+2 DATE 1 May 1830
+2 PLAC Zielona, Poland
+0 @F108@ FAM
+1 HUSB @I383@
+1 WIFE @I384@
+1 CHIL @I381@
+2 _FREL Natural
+2 _MREL Natural
+0 @F109@ FAM
+1 HUSB @I330@
+1 WIFE @I385@
+1 CHIL @I387@
+2 _FREL Natural
+2 _MREL Natural
+1 CHIL @I386@
+2 _FREL Natural
+2 _MREL Natural
+1 MARR
+2 DATE 10 Jul 1833
+2 PLAC Zielona, Poland
+0 @F110@ FAM
+1 HUSB @I119@
+1 WIFE @I066@
+1 MARR
+2 DATE 16 Jan 1839
+2 PLAC Zielona, Poland
+0 TRLR

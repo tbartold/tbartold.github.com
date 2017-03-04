@@ -1,0 +1,159 @@
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+ <meta name="generator" content="HTML Tidy for Linux (vers 1 September 2005), see www.w3.org" />
+ <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+ <meta name="Author" content="Thomas M. Bartold" />
+
+ <title>Submission Center</title>
+ <link rel="stylesheet" type="text/css" href="/style.css" />
+<script language="JavaScript" type="text/javascript">
+//<![CDATA[
+<!-- hide script from old browsers
+/* Function to efficiently find form elements that are not filled. */
+function fixElement(element, message) {
+   alert(message);
+   element.focus();
+}
+/* Main mail function:
+   1. checks elements
+   2. gets browser info
+   3. checks multiple send
+   4. sends mail. */
+function isMailReady(form) {
+var passed = false;
+   if (form.NAME.value == "") {
+   fixElement(form.NAME, "Please include your name.");
+   }
+   else if (form.email.value.indexOf("@") == -1 ||
+            form.email.value.indexOf(".") == -1) {
+   fixElement(form.email, "Please include a proper email address.");
+   }
+   else if (form.comments.value == "") {
+   fixElement(form.comments, "Please provide a Query.");
+   }
+   else {
+   passed = true;
+   }
+   return passed;
+}
+//-->
+//]]>
+</script><!--=======Javascript is above this line==============-->
+</head>
+
+<body>
+ <!-- Links -->
+
+ <div class="center">
+  [<a href="index.html">Main Genealogy Page</a>] [<a href="research.html">Researchers</a>] [<a href="/geobook.html">GuestBook</a>] [<a href="/index.html">Bartold Home Page</a>]
+ </div>
+ <hr />
+ <!-- END of Links -->
+
+ <h1 align="center">Submit Your Info</h1>
+
+ <p>When writing your query, please do not use all CAPS for the message. Use all CAPS only for a SURNAME.<br />
+ Please be sure you check your spelling. All queries are copied as entered. If it's not spelled correcly, it's not my fault! Queries should be posted within two weeks. You can also submit any offers to help here.</p>
+ <hr />
+
+ <h2 align="center">Submit Your Info - Form</h2>If the following "form" does not work on your browser, please submit your info by email, following the direction in the next section of this page. The format I'd like the email to be in is described there.
+
+ <form method="post" action="http://www.geocities.com/cgi-bin/homestead/mail.pl?bartold" onsubmit="return isMailReady(this);">
+  <input type="hidden" name="subject" value="BARTOLD Submit Form" />
+
+  <table width="100%" summary="form">
+   <tr>
+    <td>Your Name: <i>Required</i></td>
+
+    <td><input type="text" name="NAME" size="30" maxlength="30" />(Do not hit return)</td>
+   </tr>
+
+   <tr>
+    <td>Email Address: <i>Required</i></td>
+
+    <td><input type="text" name="email" size="30" maxlength="60" /></td>
+   </tr>
+
+   <tr>
+    <td></td>
+   </tr>
+
+   <tr>
+    <td>Home Page URL: <i>Optional</i></td>
+
+    <td><input type="text" name="WebPage" size="40" maxlength="100" /></td>
+   </tr>
+
+   <tr valign="top">
+    <td>Postal Address: <i>Optional<br />
+    Not everyone visiting this page<br />
+    has access to email.</i></td>
+
+    <td>
+    <textarea name="Postal" rows="4" cols="50" wrap="physical">
+</textarea></td>
+   </tr>
+
+   <tr valign="top">
+    <td>Please enter your Info: <i>Required<br />
+    When entering your Info please<br />
+    use all CAPITALS for surnames only.</i></td>
+
+    <td>
+    <textarea name="comments" rows="10" cols="50" wrap="physical">
+</textarea></td>
+   </tr>
+
+   <tr>
+    <td></td>
+
+    <td><input type="submit" value="Submit" /><input type="reset" value="Reset" /></td>
+   </tr>
+  </table>
+ </form>
+ <hr />
+
+ <h2 align="center">Submit Your Info - Email</h2><b>If you have a forms capable browser,</b> please submit your query using the form above.<br />
+ <b>If you do not have a forms capable browser,</b> please submit your information using the <a href="feedback.html">feedback form</a> with the following format:
+
+ <table width="100%">
+  <tr>
+   <td><b>Your Name</b> <i>Required</i></td>
+
+   <td>Jan Kowalski</td>
+  </tr>
+
+  <tr>
+   <td><b>Email Address</b> <i>Required</i></td>
+
+   <td>jsmith@kki.net.pl</td>
+  </tr>
+
+  <tr>
+   <td><b>Web Page Address</b> <i>Optional</i></td>
+
+   <td>http://www.kki.net.pl/jsmith/index.html</td>
+  </tr>
+
+  <tr>
+   <td><b>Postal Address</b> <i>Optional</i></td>
+
+   <td>4516 Lane St, San Diego, CA 91039</td>
+  </tr>
+
+  <tr>
+   <td><b>Information</b> <i>Required</i></td>
+
+   <td>I'm looking for any SMITH's or KOWAL's in America...</td>
+  </tr>
+ </table>
+ <hr />
+
+ <div class="copy">
+  <strong>Thom Bartold's Web Stuff</strong><br />
+  Copyright © 1997-2002 by Thomas M. Bartold. All rights reserved.<br />
+  This page may be freely linked to but neither it nor the information it provides<br />
+  may be duplicated in any fashion without the author's consent.
+ </div>
+</body>
+</html>
